@@ -13,6 +13,11 @@
 			1. Formas geométricas diferentes mostram ações distintas.
 		***Objetivo***
 			Facilitar o entendimento de uma ideia.
+Pseudocódigo
+	Também conhecido como português estruturado ou portugol.
+	Ponto intermediário entre o entendimento humano e de uma linguagem de programação
+		***Principal vantagem***
+			Pode ser facilmente traduzido para uma linguagem de programaçao
 
 
 ## Formas de representação de algoritmos
@@ -22,3 +27,5 @@ Principais Símbolos do fluxograma
 
 
 ### Descrição narrativa e fluxograma: Exemplo
+
+![[exemplo-fluxograma.png]]
