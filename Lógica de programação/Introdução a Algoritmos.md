@@ -19,3 +19,6 @@
 Principais Símbolos do fluxograma
 
 ![[fluxograma.png]]
+
+
+### Descrição narrativa e fluxograma: Exemplo
