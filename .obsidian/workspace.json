@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lógica de programação/Sem título.md",
+                "file": "Lógica de programação/Introdução a Algoritmos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4c596be5119af457",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lógica de programação/Sem título.md",
+                "file": "Lógica de programação/Introdução a Algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lógica de programação/Sem título.md",
+                "file": "Lógica de programação/Introdução a Algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lógica de programação/Sem título.md"
+                "file": "Lógica de programação/Introdução a Algoritmos.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "64789b9bed9fafc0",
+  "active": "e17cdcbbecccfb14",
   "lastOpenFiles": [
     "Desenvolvimento Dinamico/Funções.md",
-    "Lógica de programação/Sem título.md",
+    "Lógica de programação/Introdução a Algoritmos.md",
     "Lógica de programação"
   ]
 }
