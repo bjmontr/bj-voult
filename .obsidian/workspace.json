@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Introdução a Algoritmos"
             }
-          },
-          {
-            "id": "8c0d402de4633ebe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +162,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8c0d402de4633ebe",
+  "active": "e17cdcbbecccfb14",
   "lastOpenFiles": [
     "images/exemplo-fluxograma.png",
     "images/fluxograma.png",
