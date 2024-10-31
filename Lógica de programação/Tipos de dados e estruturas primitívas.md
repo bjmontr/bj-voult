@@ -11,3 +11,7 @@
 
 *Inteiros*
 	Tipo de dados numéricos positivos e negativos (exceto números fracionários)
+ ```javascript   
+ 30 / -10
+ ```
+ 
