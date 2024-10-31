@@ -20,6 +20,11 @@
 ```javascript
 2 / 33.7 / 0 / -128 / -26.0
 ```
+
 *Dados Literais*
 	Sequência contendo letras, números e símbolos especiais. Uma sequência de caracteres deve sempre ser indicada entre aspas duplas.
-! CONHECIDOS COMO STRING
+	==Conhecidos como: String==
+
+*Dados Lógicos*
+	Dados com valores verdadeiro ou falso
+	==Conhecidos como: Boolean==
