@@ -16,10 +16,25 @@
                 "file": "Lógica de programação/Introdução a Algoritmos.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Introdução a Algoritmos"
+            }
+          },
+          {
+            "id": "8c0d402de4633ebe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -93,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Introdução a Algoritmos"
             }
           },
           {
@@ -105,7 +128,9 @@
                 "file": "Lógica de programação/Introdução a Algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Introdução a Algoritmos"
             }
           },
           {
@@ -116,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +153,9 @@
               "type": "outline",
               "state": {
                 "file": "Lógica de programação/Introdução a Algoritmos.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Introdução a Algoritmos"
             }
           }
         ]
@@ -146,7 +175,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e17cdcbbecccfb14",
+  "active": "8c0d402de4633ebe",
   "lastOpenFiles": [
     "images/exemplo-fluxograma.png",
     "images/fluxograma.png",
