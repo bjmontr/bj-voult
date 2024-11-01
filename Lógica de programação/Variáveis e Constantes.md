@@ -9,4 +9,9 @@ Identificador de variável
 	3. Não pode conter espaços em branco.
 	4. Pode conter apenas letras, dígitos e sublinha.
 	5. Deve começar com uma letra.
-	6.  
+## Constantes
+
+Definição
+	Uma constante teoricamente é a mesma coisa que uma variável, tirando o fato que o seu valor não vai poder ser alterado.
+
+## Operadores
