@@ -15,3 +15,5 @@ Definição
 	Uma constante teoricamente é a mesma coisa que uma variável, tirando o fato que o seu valor não vai poder ser alterado.
 
 ## Operadores
+
+D
