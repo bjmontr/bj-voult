@@ -16,17 +16,17 @@ Definição
 
 ## Operadores
 
-Definição
+***Definição***
 	São utilizados para executar cálculos numéricos e relacionar expressões.
 
-Operadores Aritméticos
+***Operadores Aritméticos***
 	Existem 2 tipos:
-		Unários
+		*Unários*
 			Inversão de valor
-		Binários:
+		*Binários*
 			Atuam em operações de exponenciação, multiplicação, divisão, adição e subtração.
 
-Operadores relacionais
+***Operadores relacionais***
 	Utilizados para relacionar expressões.
 	**Expressões**
 		Combinações de variáveis, constantes e operadores que, quando avaliada, resulta em um valor.
