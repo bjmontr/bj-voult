@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/Sem título.md",
+                "file": "Projetos/BudgetControl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "BudgetControl"
             }
           }
         ]
@@ -165,7 +165,7 @@
   "active": "778be66e47028c40",
   "lastOpenFiles": [
     "Lógica de programação/Comandos de decisão.md",
-    "Projetos/Sem título.md",
+    "Projetos/BudgetControl.md",
     "Projetos",
     "Lógica de programação/Entrada, processamento e saída.md",
     "Lógica de programação/Variáveis e Constantes.md",
