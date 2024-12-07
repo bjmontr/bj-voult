@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Estrutura de decisão"
             }
-          },
-          {
-            "id": "6e17e45d349a6e7a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4c596be5119af457",
@@ -175,7 +163,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6e17e45d349a6e7a",
+  "active": "82fb03e0b614c513",
   "lastOpenFiles": [
     "Lógica de programação/Comandos de decisão.md",
     "Lógica de programação/Estrutura de decisão.md",
