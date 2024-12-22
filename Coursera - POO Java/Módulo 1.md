@@ -8,7 +8,15 @@ Classe -> Cria/Instancia -> Objetos
 
 As características de cada objeto são chamados de atributos da classe.
 Classes podem realizar ações, e podem mudar os valores do atributo(características).
-As acoes das classes sao chamados de metodos
+As ações que um objeto pode realizar são chamados de métodos.
+
+Classe -> Estado(Atributos) -> Comportamento(Métodos).
+### Diferença entre Classe e Objeto
+
+Classe -> Abstrato -> Tem atributos -> Tem ações
+Objeto -> Concreto -> Tem 
 ### Exemplo
-Abstração -> classe(gato) = Cor, Comportamento, Peso
-Objeto -> objeto(preto) = Preto, Arisco, Gordo
+Classe Carro -> Potência, Motor, Velocidade -> Acelerar, Frear.
+Objeto Civic -> Potência = 2.0, Velocidade = 150km/h -> Acelerar, Frear
+
+
