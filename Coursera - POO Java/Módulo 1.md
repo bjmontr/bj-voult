@@ -17,6 +17,11 @@ Classe -> Abstrato -> Tem atributos -> Tem ações
 Objeto -> Concreto -> Tem valores -> Realiza ações
 ### Exemplo
 Classe Carro -> Potência, Motor, Velocidade -> Acelerar, Frear.
-Objeto Civic -> Potência = 2.0, Velocidade = 150km/h -> Acelerar, Frear
+Objeto Civic -> Potência = 2.0, Velocidade = 150km/h -> Acelerar, Frear.
 
 
+## Criando Classes 
+
+A informação que uma classe precisa saber é armazenada nos atributos
+
+ 
