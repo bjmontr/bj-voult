@@ -22,6 +22,47 @@ Objeto Civic -> Potência = 2.0, Velocidade = 150km/h -> Acelerar, Frear.
 
 ## Criando Classes 
 
-A informação que uma classe precisa saber é armazenada nos atributos
+A informação que uma classe precisa saber é armazenada nos atributos -> variáveis.
 
- 
+```java
+ public class Carro {
+	 int potencia;
+	 float velocidade;
+ }
+```
+
+### Criando objetos
+
+`Carro fusca = new Carro();` 
+
+Para criar um objeto:
+	1. Declare o tipo da variável ( `Carro` )
+	2. Sempre use o operador `new`
+
+### Acessando atributos
+
+```java
+fusca.potencia = 2;
+float v = fusca.velocidade;
+```
+
+Os atributos ( valores ) podem ser acessados para escrita e leitura.
+
+### Comportamento
+
+Os métodos definem o comportamento da classe. 
+
+```java
+public class Carro {
+	void acelerar() {
+		velocidade += potencia;
+	}
+	void frear() {
+		velocidade *= 0.5;
+	}
+}
+```
+
+```java
+
+```
