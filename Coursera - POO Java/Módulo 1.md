@@ -14,7 +14,7 @@ Classe -> Estado(Atributos) -> Comportamento(Métodos).
 ### Diferença entre Classe e Objeto
 
 Classe -> Abstrato -> Tem atributos -> Tem ações
-Objeto -> Concreto -> Tem 
+Objeto -> Concreto -> Tem valores -> Realiza ações
 ### Exemplo
 Classe Carro -> Potência, Motor, Velocidade -> Acelerar, Frear.
 Objeto Civic -> Potência = 2.0, Velocidade = 150km/h -> Acelerar, Frear
