@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lógica de programação/Tipos de dados e estruturas primitívas.md",
+                "file": "Coursera - POO Java/Módulo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Tipos de dados e estruturas primitívas"
+              "title": "Links inversos para Módulo 1"
             }
           },
           {
@@ -139,18 +139,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lógica de programação/Tipos de dados e estruturas primitívas.md"
+                "file": "Coursera - POO Java/Módulo 1.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Tipos de dados e estruturas primitívas"
+              "title": "Sumário de Módulo 1"
+            }
+          },
+          {
+            "id": "55214676d1627262",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,15 +174,15 @@
   },
   "active": "f341b49167587082",
   "lastOpenFiles": [
-    "Lógica de programação/Estrutura de decisão.md",
     "Coursera - POO Java/Módulo 1.md",
+    "conflict-files-obsidian-git.md",
+    "Lógica de programação/Estrutura de decisão.md",
     "Coursera - POO Java",
     "Lógica de programação/Comandos de decisão.md",
     "Lógica de programação/Introdução a Algoritmos.md",
     "Lógica de programação/Tipos de dados e estruturas primitívas.md",
     "Lógica de programação/Variáveis e Constantes.md",
     "Projetos/Nods.md",
-    "conflict-files-obsidian-git.md",
     "Projetos",
     "images/exemplo-fluxograma.png",
     "images/fluxograma.png",
