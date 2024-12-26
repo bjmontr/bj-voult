@@ -64,5 +64,10 @@ public class Carro {
 ```
 
 ```java
-
+void acelerar(){
+	velocidade += potencia;
+}
 ```
+
+Retorno -> `void` = não retorna nada.
+()
