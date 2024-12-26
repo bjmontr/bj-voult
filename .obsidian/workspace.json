@@ -173,13 +173,23 @@
               "icon": "lucide-list",
               "title": "Sumário de Tipos de dados e estruturas primitívas"
             }
+          },
+          {
+            "id": "15430ce8c32d891e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
