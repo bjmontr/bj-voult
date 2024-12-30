@@ -65,4 +65,12 @@ void acelerar() {
 ```
 
 Retorno -> `void` = não retorna nada.
-Parâmetro -> () = 
+Parâmetro -> `()` -> Pode ter ou não parâmetros.
+Manipulação do estado da classe -> `velocidade += potencia;`
+
+#### Executando métodos
+
+```java 
+fusca.acelerar();
+fusca.frear();
+```
