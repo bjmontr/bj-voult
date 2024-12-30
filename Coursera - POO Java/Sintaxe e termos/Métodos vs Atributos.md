@@ -1,8 +1,11 @@
+## Principais Diferenças:
+
+
+| Aspecto   | Atributos                                  | Métodos |
+| --------- | ------------------------------------------ | ------- |
+| Definição | Representam o estado ou dados de um objeto |         |
+
 ## Atributos
-
-### Definição
-
-Os atributos são as características ou propriedades de uma classe ou objeto. Eles armazenam dados sobre o estado do objeto.
 
 #### Exemplos
 
