@@ -32,3 +32,9 @@ civic.cor = "azul";
 ## Métodos
 
 #### Exemplo
+
+```java
+public void pintar(String novaCor) {
+	cor = novaCor;
+}
+```
