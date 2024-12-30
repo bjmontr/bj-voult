@@ -11,5 +11,8 @@ public class Carro {
 #### Criação de um objeto
 
 ```java
-Carro civic = new C
+Carro civic = new Carro();
+
+civic.potencia = 150;
+civic. velocidade = 
 ```
