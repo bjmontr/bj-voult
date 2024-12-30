@@ -1,9 +1,11 @@
 ## Principais Diferenças:
 
-
-| Aspecto   | Atributos                                  | Métodos |
-| --------- | ------------------------------------------ | ------- |
-| Definição | Representam o estado ou dados de um objeto |         |
+| Aspecto       | Atributos                                  | Métodos                                             |
+| ------------- | ------------------------------------------ | --------------------------------------------------- |
+| Definição     | Representam o estado ou dados de um objeto | Representam o comportamento ou ação de um objeto.   |
+| Função        | Armazenam informações sobre o objeto.      | Executam ações ou manipulam os atributos do objeto. |
+| Visibilidade  | Podem ser privados (encapsulamento).       | Podem ser públicos ou privados.                     |
+| Inicialização | Inicializados na criação do objeto.        | Definem as ações do objeto, não armazenam dados.    |
 
 ## Atributos
 
@@ -26,3 +28,7 @@ civic.potencia = 150;
 civic.velocidade = 140.5f;
 civic.cor = "azul";
 ```
+
+## Métodos
+
+#### Exemplo
