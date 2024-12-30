@@ -36,7 +36,9 @@ public class Carro {
 
 `Carro fusca = new Carro();`
 
-Para criar um objeto: 1. Declare o tipo da variável (`Carro`) 2. Sempre use o operador `new`
+Para criar um objeto: 
+1. Declare o tipo da variável (`Carro`) 
+2. Sempre use o operador `new`
 
 ### Acessando atributos
 
