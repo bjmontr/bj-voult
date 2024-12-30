@@ -11,15 +11,11 @@ Classe -> Estado (Atributos) -> Comportamento (Métodos).
 
 ### Diferença entre Classe e Objeto
 
-| Classe | Objeto |
+
+| Classe | Objeto  |
 | Abstrato | Concreto |
 | Tem atributos | Tem valores específicos |
 | Define métodos | Executa métodos |
-
-
-|     |     |
-| --- | --- |
-|     |     |
 
 
 Classe -> Abstrato -> Tem atributos -> Tem ações Objeto

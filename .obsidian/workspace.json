@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Coursera - POO Java/Módulo 1.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Módulo 1"
