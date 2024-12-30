@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursera - POO Java/Sintaxe e termos/Métodos vs.md",
+                "file": "Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Métodos vs"
+              "title": "Métodos vs Atributos"
             }
           }
         ]
@@ -175,7 +175,7 @@
   },
   "active": "425e31e20eaa8fa3",
   "lastOpenFiles": [
-    "Coursera - POO Java/Sintaxe e termos/Métodos vs.md",
+    "Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
     "Coursera - POO Java/Sem título.md",
     "Coursera - POO Java/Exemplos de classe em Java.md",
     "Coursera - POO Java/Classes e objetos.md",
