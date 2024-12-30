@@ -65,3 +65,4 @@ void acelerar() {
 ```
 
 Retorno -> `void` = não retorna nada.
+Parâmetro -> () = 
