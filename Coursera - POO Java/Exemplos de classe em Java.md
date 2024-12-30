@@ -27,7 +27,10 @@ public class Carro {
 	String cor;
 
 	void acelerar() {
-		velocidade 
+		velocidade += potencia;
+	}
+	void frear() {
+		velocidade *= 0.5;
 	}
 }
 ```
