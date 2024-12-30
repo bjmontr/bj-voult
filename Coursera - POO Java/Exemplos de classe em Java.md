@@ -14,5 +14,7 @@ public class Carro {
 Carro civic = new Carro();
 
 civic.potencia = 150;
-civic. velocidade = 
+civic.velocidade = 140.5f;
+civic.cor = "azul";
 ```
+
