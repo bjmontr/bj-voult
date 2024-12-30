@@ -2,4 +2,18 @@
 
 ### Definição
 
-Os atributos são as ca
+Os atributos são as características ou propriedades de uma classe ou objeto. Eles armazenam dados sobre o estado do objeto.
+
+#### Exemplos
+
+##### Exemplo em uma classe
+
+```java
+public class Carro {
+	int potencia;
+	float velocidade;
+	String cor;
+}
+```
+
+##
