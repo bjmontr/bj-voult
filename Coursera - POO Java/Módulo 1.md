@@ -16,6 +16,12 @@ Classe -> Estado (Atributos) -> Comportamento (Métodos).
 | Tem atributos | Tem valores específicos |
 | Define métodos | Executa métodos |
 
+
+|     |     |
+| --- | --- |
+|     |     |
+
+
 Classe -> Abstrato -> Tem atributos -> Tem ações Objeto
 Concreto -> Tem valores -> Realiza ações
 
