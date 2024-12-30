@@ -13,26 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursera - POO Java/Classes e objetos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classes e objetos"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f80307eb4f08af98",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "90ccd98cccfb7154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Coursera - POO Java/Exemplos de classe em Java.md",
                 "mode": "source",
                 "source": false
@@ -97,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4c596be5119af457",
@@ -194,9 +173,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "90ccd98cccfb7154",
+  "active": "5ef825b3da3c400d",
   "lastOpenFiles": [
     "Coursera - POO Java/Classes e objetos.md",
+    "Coursera - POO Java/Sintaxe/Void.md",
+    "Coursera - POO Java/Sintaxe",
+    "Coursera - POO Java/Sintaxe.md",
     "Coursera - POO Java/Exemplos de classe em Java.md",
     "Coursera - POO Java/Exemplos de classes em Java.md",
     "conflict-files-obsidian-git.md",
