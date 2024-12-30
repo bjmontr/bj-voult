@@ -16,4 +16,10 @@ public class Carro {
 }
 ```
 
-##
+##### Exemplo em um objeto
+
+```java
+civic.potencia = 150;
+civic.velocidade = 140.5f;
+civic.cor = "azul";
+```
