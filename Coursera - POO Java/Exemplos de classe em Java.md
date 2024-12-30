@@ -18,3 +18,16 @@ civic.velocidade = 140.5f;
 civic.cor = "azul";
 ```
 
+#### Inserindo métodos
+
+```java
+public class Carro {
+	int potencia;
+	float velocidade;
+	String cor;
+
+	void acelerar() {
+		velocidade 
+	}
+}
+```
