@@ -74,3 +74,6 @@ Manipulação do estado da classe -> `velocidade += potencia;`
 fusca.acelerar();
 fusca.frear();
 ```
+
+O método será executado no objeto utilizado para a chamada.
+
