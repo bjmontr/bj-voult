@@ -93,6 +93,20 @@ São "métodos especiais" usados para criar objetos da classe.
 
 ```java
 public class Carro {
-
+	int potencia;
+	float velocidade;
+	Carro(int potencia){
+		this.potencia = potencia;
+		velocidade = 0;
+	}
 }
+```
+
+O construtor não precisa definir o retorno
+
+```java
+/**/Carro(int potencia){
+		this.potencia = potencia;
+		velocidade = 0;
+	}
 ```
