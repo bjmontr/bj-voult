@@ -105,8 +105,16 @@ public class Carro {
 O construtor não precisa definir o retorno
 
 ```java
-/**/Carro(int potencia){
+/* (Não existe retorno) */ Carro(int potencia){
 		this.potencia = potencia;
 		velocidade = 0;
 	}
 ```
+
+O construtor precisa ter o mesmo nome da classe.
+
+```java
+this.potencia = potencia;
+```
+
+"this" usado para referenciar elementos da classe, podendo ser métodos ou atributos.
