@@ -85,3 +85,14 @@ O método será executado no objeto utilizado para a chamada.
 
 ### Construtor
 
+#### Definição
+
+São "métodos especiais" usados para criar objetos da classe.
+
+#### Exemplo
+
+```java
+public class Carro {
+
+}
+```
