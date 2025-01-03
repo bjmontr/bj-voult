@@ -21,6 +21,17 @@
 public class Carro {
 	String marca;
 	String modelo;
-
+	// Construtor parametrizado
+	public Carro(String marca, String modelo){
+		this.marca = marca;
+		this.modelo = modelo;
+	}
 }
 ```
+
+
+## Importância
+
+- Inicialização Segura
+- Flexibilidade
+- Encapsulamento
