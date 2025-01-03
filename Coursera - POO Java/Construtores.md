@@ -11,4 +11,16 @@
 | Acesso          | Pode ter qualquer modificador de acesso. |
 ## Tipos de construtores
 
-- Default: Se a classe nao tiver um construtor explicitamente definido, o Java oferece um construtor padrão, que não faz nada além de chamar 
+- **Default**: Se a classe nao tiver um construtor explicitamente definido, o Java oferece um construtor padrão, que não faz nada além de chamar o construtor da superclasse.
+
+- **Parametrizado**: Permite que o desenvolvedor especifique um ou mais parâmetros, possibilitando a inicialização de objetos com diferentes estados.
+
+## Exemplo
+
+```java
+public class Carro {
+	String marca;
+	String modelo;
+
+}
+```
