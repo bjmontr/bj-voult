@@ -9,6 +9,8 @@ As características de cada objeto são chamadas de atributos da classe. Classes
 
 Classe -> Estado (Atributos) -> Comportamento (Métodos).
 
+[[Métodos vs Atributos]]
+
 ### Diferença entre Classe e Objeto
 
 | Classe         | Objeto                   |
@@ -84,6 +86,8 @@ fusca.frear();
 O método será executado no objeto utilizado para a chamada.
 
 ### Construtor
+
+[[Construtores]]
 
 #### Definição
 
