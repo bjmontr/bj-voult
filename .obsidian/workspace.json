@@ -11,10 +11,14 @@
             "id": "596bd401f28908ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Coursera - POO Java/Classes e objetos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classes e objetos"
             }
           },
           {
@@ -185,9 +189,10 @@
   },
   "active": "596bd401f28908ca",
   "lastOpenFiles": [
-    "Coursera - POO Java/Classes e objetos.md",
     "Coursera - POO Java/Exemplos de classe em Java.md",
     "Coursera - POO Java/Construtores.md",
+    "Projetos/Nods.md",
+    "Coursera - POO Java/Classes e objetos.md",
     "Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
     "Coursera - POO Java/Sintaxe e termos/O que é void.md",
     "Coursera - POO Java/Sintaxe e termos",
@@ -200,7 +205,6 @@
     "Coursera - POO Java",
     "Lógica de programação/Comandos de decisão.md",
     "Lógica de programação/Introdução a Algoritmos.md",
-    "Projetos/Nods.md",
     "Projetos",
     "images/exemplo-fluxograma.png",
     "images/fluxograma.png",
