@@ -73,6 +73,7 @@ void acelerar() {
 ```
 
 Retorno -> `void` = não retorna nada.
+[[O que é void]]
 Parâmetro -> `()` -> Pode ter ou não parâmetros.
 Manipulação do estado da classe -> `velocidade += potencia;`
 
