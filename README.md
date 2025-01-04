@@ -6,7 +6,7 @@ Bem-vindo ao meu Vault do Obsidian! Aqui contém minhas anotações de estudos q
 
 Abaixo estão as principais pastas e sua descrição:
 
-- **📚 Biblioteca**: Anotações de leitura, resumos de livros e artigos.
+- 📚 Cursos: Anotações dos cursos/faculdade.
 - **💡 Ideias**: Brainstorming, pensamentos soltos e ideias para projetos futuros.
 - **📓 Diário**: Reflexões diárias e registros pessoais.
 - **📂 Projetos**: Documentação e planejamento dos meus projetos em andamento.
