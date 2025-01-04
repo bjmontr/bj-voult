@@ -1,4 +1,4 @@
-# Meu Vault do Obsidian
+# Bllakk vault
 
 Bem-vindo ao meu Vault do Obsidian! Aqui contém minhas anotações de estudos que fazem sentindo para mim.
 
@@ -6,13 +6,10 @@ Bem-vindo ao meu Vault do Obsidian! Aqui contém minhas anotações de estudos q
 
 Abaixo estão as principais pastas e sua descrição:
 
-- 📚 Cursos: Anotações dos cursos/faculdade.
-- **💡 Ideias**: Brainstorming, pensamentos soltos e ideias para projetos futuros.
-- **📓 Diário**: Reflexões diárias e registros pessoais.
+- 📚 **Cursos**: Anotações dos cursos/faculdade.
+- **📚 Biblioteca**: Resumo de livros.
 - **📂 Projetos**: Documentação e planejamento dos meus projetos em andamento.
-- **🔗 Links**: Coleção de links úteis organizados por categoria.
 - **🗂 Templates**: Modelos de notas para facilitar o registro de informações.
-- **🌟 Favoritos**: Minhas anotações e ideias mais relevantes.
 
 ## Ferramentas e Plugins Utilizados
 
