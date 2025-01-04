@@ -1,6 +1,6 @@
 # Bllakk vault
 
-Bem-vindo ao meu Vault do Obsidian! Aqui contém minhas anotações de estudos que fazem sentindo para mim.
+Aqui contém minhas anotações de estudos que fazem sentindo para mim.
 
 ## Estrutura do Vault
 
