@@ -11,10 +11,14 @@
             "id": "5ab73656ba7e6777",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Coursera - POO Java/Semana 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semana 1"
             }
           }
         ]
@@ -169,7 +173,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5ab73656ba7e6777",
+  "active": "64789b9bed9fafc0",
   "lastOpenFiles": [
     "README.md",
     "Coursera - POO Java/Semana 1.md",
