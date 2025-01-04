@@ -14,7 +14,6 @@ Abaixo estão as principais pastas e sua descrição:
 ## Ferramentas e Plugins Utilizados
 
 - **Git**: Para fazer o versionamento do vault da forma mais rapida possivel.
-- **QuickAdd**: Para automação e criação de anotações rapidamente.
 - **Templater**: Para usar modelos customizáveis.
 
 ## Como Utilizar
