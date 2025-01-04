@@ -16,9 +16,7 @@ Abaixo estão as principais pastas e sua descrição:
 
 ## Ferramentas e Plugins Utilizados
 
-- **Dataview**: Para consultas dinâmicas e visualizações personalizadas das notas.
-- **Calendar**: Para acompanhar meu diário e tarefas com base no calendário.
-- **Tasks**: Gerenciamento de tarefas diretamente nas notas.
+- **Git**: Para fazer o versionamento do vault da forma mais rapida possivel.
 - **QuickAdd**: Para automação e criação de anotações rapidamente.
 - **Templater**: Para usar modelos customizáveis.
 
@@ -26,4 +24,4 @@ Abaixo estão as principais pastas e sua descrição:
 
 1. Clone este repositório no seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/obsidian-vault.git
+   git clone https://github.com/bllakk/bllakk-vault.git
