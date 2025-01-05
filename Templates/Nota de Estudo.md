@@ -3,7 +3,6 @@ title: "{{title}}"
 tags: 
 date:
 ---
-# {{Título do Tópico}}
 
 ## 🔍 Definição
 
