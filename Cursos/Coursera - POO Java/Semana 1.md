@@ -2,7 +2,7 @@
 title: Semana 1
 tags:
   - "#poo"
-  - "#java"
+  - java
 date: 2024-12-23
 ---
 # Semana 1

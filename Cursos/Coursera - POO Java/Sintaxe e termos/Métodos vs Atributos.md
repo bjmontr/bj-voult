@@ -1,6 +1,7 @@
 ---
 title: Métodos vs Atributoss
-tags: 
+tags:
+  - java
 date:
 ---
 
