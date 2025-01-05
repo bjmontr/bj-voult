@@ -55,3 +55,19 @@ Adicione aqui um breve resumo dos tópicos estudados e o que foi mais importante
 - Passos para criar um objeto:
 	1. Declare o tipo da variável (`Carro`).
 	2. Use o operador `new` para instanciar.
+
+---
+
+### 🧩 5. Construtor
+
+- **O que é?**
+Métodos especiais usados para instanciar objetos.
+
+- **Exemplo:**
+```java
+public class Carro {
+	String marca;
+	
+}
+```
+
