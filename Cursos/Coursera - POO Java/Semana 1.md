@@ -35,19 +35,29 @@ date: 2024-12-23
 
 ---
 
-### 🧩 3. {{Tópico}}  
+### 🧩 3. Diferença entre Classe e Objeto  
 
-| **Classe**     | **Objeto**                           |
-| -------------- | ------------------------------------ |
-| Abstrato       | Concreto                             |
-| Tem atributos  | Tem valores especÍficos.             |
-| Define métodos | Podem ser privados (encapsulamento). |
+| **Classe**     | **Objeto**              |
+| -------------- | ----------------------- |
+| Abstrato       | Concreto                |
+| Tem atributos  | Tem valores específicos |
+| Define métodos | Executa métodos         |
 
 ---
 
-### 🧩 4. {{Tópico}}  
+### 🧩 4. Criando Classes e Objetos 
 
+- Classes:
+```java
+	public class Carro { 
+		int potencia; float velocidade; 
+	}
+```
 
+- Objetos:
+```java
+	Carro fusca = new Carro();
+```
 ---
 
 ### 🧩 5. {{Tópico}}
