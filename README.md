@@ -15,6 +15,7 @@ Abaixo estão as principais pastas e sua descrição:
 
 - **Git**: Para fazer o versionamento do vault da forma mais rapida possivel.
 - **Templater**: Para usar modelos customizáveis.
+- **Tasks**: Para criar as to-do list.
 
 ## Como Utilizar
 
