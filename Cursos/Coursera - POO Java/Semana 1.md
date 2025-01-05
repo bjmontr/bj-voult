@@ -9,7 +9,6 @@ date: 2024-12-23
 
 ## 🗓 Resumo da Semana  
  
-
 ---
 
 ## 📖 Tópicos Estudados  

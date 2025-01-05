@@ -11,10 +11,14 @@
             "id": "74414562b022bab2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Coursera - POO Java/Semana 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semana 1"
             }
           }
         ]
@@ -170,7 +174,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "64789b9bed9fafc0",
+  "active": "74414562b022bab2",
   "lastOpenFiles": [
     "Cursos/Coursera - POO Java/Semana 1.md",
     "Cursos/Coursera - POO Java/Exemplos de classe em Java.md",
