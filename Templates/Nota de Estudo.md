@@ -7,12 +7,15 @@ date:
 
 ## 🔍 Definição
 
-- **{{Caracteristica}}**
-- **{{Caracteristica}}**
-
 ---
 
 ## 📝 Principais Características
 
+- **{{Caracteristica}}**:
+- **{{Caracteristica}}**:
+
 ---
 
+## 🧩 Vantagens e Desvantagens
+
+- **Vantag**
