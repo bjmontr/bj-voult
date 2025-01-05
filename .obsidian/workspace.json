@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Coursera - POO Java/Semana 1.md",
+                "file": "Templates/Nota de Estudo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semana 1"
+              "title": "Nota de Estudo"
             }
           }
         ]
@@ -176,13 +176,13 @@
   },
   "active": "5ab73656ba7e6777",
   "lastOpenFiles": [
+    "Cursos/Coursera - POO Java/Semana 1.md",
     "Templates/Nota de Estudo.md",
     "README.md",
     "Templates",
     "Projetos",
     "Biblioteca",
     "Cursos",
-    "Cursos/Coursera - POO Java/Semana 1.md",
     "Cursos/Coursera - POO Java/Construtores.md",
     "Cursos/Coursera - POO Java/Sintaxe e termos/O que é void.md",
     "Cursos/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
