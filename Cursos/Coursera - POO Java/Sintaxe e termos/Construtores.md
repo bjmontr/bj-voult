@@ -1,6 +1,8 @@
 ---
-title: "{{title}}"
-tags: 
+title: Construtores
+tags:
+  - java
+  - poo
 date:
 ---
 
@@ -18,8 +20,10 @@ date:
 | Retorno         | Não possui, nem mesmo o `void`.          |
 | Acesso          | Pode ter qualquer modificador de acesso. |
 
-- Tipos de construtores:
-	- 
+- **Tipos de construtores**:
+	- **Default**: Se a classe nao tiver um construtor explicitamente definido, o Java oferece um construtor padrão, que não faz nada além de chamar o construtor da superclasse.
+	
+	- **Parametrizado**: Permite que o desenvolvedor especifique um ou mais parâmetros, possibilitando a inicialização de objetos com diferentes estados.
 
 ---
 
@@ -32,6 +36,23 @@ date:
 
 ## 💻 Exemplo de Implementação
 
+```java
+public class Carro {
+	String marca;
+	String modelo;
+	// Construtor parametrizado
+	public Carro(String marca, String modelo){
+		this.marca = marca;
+		this.modelo = modelo;
+	}
+}
+```
+
 ---
 
 ## ⚡ Melhores Práticas
+
+- **Importância:** 
+	- Inicialização segura
+	- Flexibilidade
+	- Encapsulamento
