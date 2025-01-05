@@ -35,8 +35,7 @@
               "title": "Nota semanal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +189,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "25015fc9ed73e073",
+  "active": "74414562b022bab2",
   "lastOpenFiles": [
-    "Templates/Nota de estudo.md",
     "Templates/Nota semanal.md",
+    "Templates/Nota de estudo.md",
     "Cursos/Coursera - POO Java/Semana 1.md",
     "Cursos/Coursera - POO Java/Sintaxe e termos/Construtores.md",
     "Cursos/Coursera - POO Java/Exemplos de classe em Java.md",
