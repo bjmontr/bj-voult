@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Nota de Estudo.md",
+                "file": "Cursos/Coursera - POO Java/Semana 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota de Estudo"
+              "title": "Semana 1"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4c596be5119af457",
@@ -176,6 +177,7 @@
   },
   "active": "5ab73656ba7e6777",
   "lastOpenFiles": [
+    "Cursos/Coursera - POO Java/Semana.md",
     "Cursos/Coursera - POO Java/Semana 1.md",
     "Templates/Nota de Estudo.md",
     "README.md",
