@@ -82,5 +82,13 @@ public class Carro {
 
 ### ✅ **Tarefas e Metas da Semana**
 
-- [ ] 🆔 adasdada
-- [ ] 
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
+- [ ] Tarefa 4
+
+### 💡 **Observações e Insights**
+
+- O uso de **"this"** é essencial para referenciar os elementos da classe internamente.
+- Métodos como `acelerar()` e `frear()` alteram diretamente os atributos do objeto.
+
