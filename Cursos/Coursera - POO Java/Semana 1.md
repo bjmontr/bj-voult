@@ -26,6 +26,8 @@ date: 2024-12-23
 
 ### 🧩 2. Comportamento e Estado das Classes  
 
+[[Métodos vs Atributos]]
+
 - **Conceitos:**
     - Atributos representam as características do objeto.
     - Métodos representam as ações realizadas pelo objeto.
