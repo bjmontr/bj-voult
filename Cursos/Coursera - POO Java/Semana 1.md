@@ -67,6 +67,8 @@ date: 2024-12-23
 
 ### 🧩 5. Construtor
 
+[[Construtores]]
+
 - **O que é?**  
 	Métodos especiais usados para inicializar objetos.
 - **Exemplo:**
