@@ -18,4 +18,13 @@ date:
 
 ## 🧩 Vantagens e Desvantagens
 
-- **Vantag**
+- **Vantagens:**
+- **Desvantagens:**
+
+---
+
+## 💻 Exemplo de Implementação
+
+---
+
+## ⚡ Melhores Práticas

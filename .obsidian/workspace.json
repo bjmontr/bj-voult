@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Nota de estudo.md",
+                "file": "Cursos/Coursera - POO Java/Sintaxe e termos/Construtores---.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota de estudo"
+              "title": "Construtores---"
             }
           },
           {
-            "id": "25015fc9ed73e073",
+            "id": "d34362f6514d043f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Nota semanal.md",
+                "file": "Cursos/Coursera - POO Java/Sintaxe e termos/Construtores---.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota semanal"
+              "title": "Construtores---"
             }
           }
         ]
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4c596be5119af457",
@@ -189,12 +188,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "74414562b022bab2",
+  "active": "64789b9bed9fafc0",
   "lastOpenFiles": [
-    "Templates/Nota semanal.md",
     "Templates/Nota de estudo.md",
+    "Cursos/Coursera - POO Java/Sintaxe e termos/Construtores---.md",
+    "Templates/Nota semanal.md",
     "Cursos/Coursera - POO Java/Semana 1.md",
-    "Cursos/Coursera - POO Java/Sintaxe e termos/Construtores.md",
     "Cursos/Coursera - POO Java/Exemplos de classe em Java.md",
     "Cursos/Coursera - POO Java/Semana.md",
     "Cursos/Coursera - POO Java/Sintaxe e termos/O que é void.md",
