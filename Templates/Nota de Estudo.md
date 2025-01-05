@@ -67,7 +67,18 @@ Métodos especiais usados para instanciar objetos.
 ```java
 public class Carro {
 	String marca;
-	
+	int ano;
+
+	Carro(String marca, int ano){
+		this.marca = marca;
+		this.ano = ano;
+	}
 }
 ```
+
+- O construtor não tem retorno e tem o mesmo nome da classe.
+
+---
+
+### ✅ **Tarefas e Metas da Semana**
 
