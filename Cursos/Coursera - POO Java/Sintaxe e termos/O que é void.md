@@ -1,15 +1,30 @@
-## Definição
+---
+title: O que é void
+tags:
+  - java
+date: 2024-12-30
+---
 
-`void` é usado para indicar que o método não retorna nenhum valor.
+## 🔍 Definição
 
-## Exemplo
+---
 
-```java
-	void imprimirMensagem() { 
-		System.out.println("Mensagem do método."); 
-	}
-```
+## 📝 Principais Características
 
-## Aplicação
+- **{{Caracteristica}}**:
+- **{{Caracteristica}}**:
 
-Você usará void em métodos que realizam ações, como alterar o estado de um objeto ou exibir algo na tela, mas que não precisam fornecer uma resposta.
+---
+
+## 🧩 Vantagens e Desvantagens
+
+- **Vantagens:**
+- **Desvantagens:**
+
+---
+
+## 💻 Exemplo de Implementação
+
+---
+
+## ⚡ Melhores Práticas

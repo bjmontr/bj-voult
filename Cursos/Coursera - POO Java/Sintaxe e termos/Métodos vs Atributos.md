@@ -35,7 +35,10 @@ civic.velocidade = 140.5f;
 civic.cor = "azul";
 ```
 
+### Métodos
 
----
-
-## ⚡ Melhores Práticas
+```java
+public void pintar(String novaCor) {
+	cor = novaCor;
+}
+```
