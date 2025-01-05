@@ -82,3 +82,5 @@ public class Carro {
 
 ### ✅ **Tarefas e Metas da Semana**
 
+- [ ] 🆔 adasdada
+- [ ] 
