@@ -58,6 +58,9 @@ date: 2024-12-23
 ```java
 	Carro fusca = new Carro();
 ```
+- **Passos para criar um objeto:**
+	1. Declare o tipo da variável (`Carro`).
+	2. Use o operador `new` para instanciar.
 ---
 
 ### 🧩 5. {{Tópico}}
