@@ -46,4 +46,8 @@ Adicione aqui um breve resumo dos tópicos estudados e o que foi mais importante
   public class Carro {
       int potencia;
       float velocidade;
-  }
+  }```
+
+- **Objetos**: 
+```
+```
