@@ -77,7 +77,8 @@ civic.frear();
 - Classes:
 ```java
 	public class Carro { 
-		int potencia; float velocidade; 
+		int potencia; 
+		float velocidade; 
 	}
 ```
 
