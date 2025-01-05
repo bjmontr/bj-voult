@@ -1,10 +1,4 @@
----
-title: Métodos vs Atributoss
-tags: 
-date:
----
-
-## 📝 Principais Características
+## Principais Diferenças:
 
 | Aspecto       | Atributos                                  | Métodos                                             |
 | ------------- | ------------------------------------------ | --------------------------------------------------- |
@@ -13,11 +7,34 @@ date:
 | Visibilidade  | Podem ser privados (encapsulamento).       | Podem ser públicos ou privados.                     |
 | Inicialização | Inicializados na criação do objeto.        | Definem as ações do objeto, não armazenam dados.    |
 
----
----
+## Atributos
 
-## 💻 Exemplo de Implementação
+#### Exemplos
 
----
+##### Exemplo em uma classe
 
-## ⚡ Melhores Práticas
+```java
+public class Carro {
+	int potencia;
+	float velocidade;
+	String cor;
+}
+```
+
+##### Exemplo em um objeto
+
+```java
+civic.potencia = 150;
+civic.velocidade = 140.5f;
+civic.cor = "azul";
+```
+
+## Métodos
+
+#### Exemplo
+
+```java
+public void pintar(String novaCor) {
+	cor = novaCor;
+}
+```
