@@ -55,6 +55,10 @@ date: 2024-12-23
 
 - **Executando métodos:**
 
+```java
+civic.acelerar();
+civic.frear();
+```
 
 ---
 
