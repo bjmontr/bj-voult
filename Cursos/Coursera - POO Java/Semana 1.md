@@ -34,6 +34,23 @@ date: 2024-12-23
     - Relação: Classe → Estado (Atributos) → Comportamento (Métodos).
 - **Exemplo:**  
     Classe: Carro → Atributos: Potência, Velocidade → Métodos: Acelerar, Frear.
+    
+```java
+    public class Carro {
+	void acelerar() {
+		velocidade += potencia;
+	}
+	void frear() {
+		velocidade *= 0.5;
+	}
+}
+```
+
+- **Estrutura**
+	- Retorno
+		- `void` = não retorna nada.
+		-  [[O que é void]]
+	- Parâmetro
 
 ---
 
