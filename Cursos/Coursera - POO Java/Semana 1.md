@@ -51,6 +51,10 @@ date: 2024-12-23
 		- `void` = não retorna nada.
 		-  [[O que é void]]
 	- Parâmetro
+		- `()` = Pode ter ou não parâmetros.
+
+- **Executando métodos:**
+
 
 ---
 
