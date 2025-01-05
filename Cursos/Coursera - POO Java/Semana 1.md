@@ -63,20 +63,30 @@ date: 2024-12-23
 	2. Use o operador `new` para instanciar.
 ---
 
-### 🧩 5. {{Tópico}}
+### 🧩 5. Construtor
 
+- **O que é?**  
+	Métodos especiais usados para inicializar objetos.
+- **Exemplo:**
+```java
+public class Carro {
+    int potencia;
+    float velocidade;
+
+    Carro(int potencia){
+        this.potencia = potencia;
+        velocidade = 0;
+    }
+}
+```
+- O construtor não tem retorno e tem o mesmo nome da classe.
 
 ---
 
 ### ✅ **Tarefas e Metas da Semana**
 
-- [ ] Tarefa 1
-- [ ] Tarefa 2
-- [ ] Tarefa 3
-- [ ] Tarefa 4
-
 ### 💡 **Observações e Insights**
 
-- {{Observação}}
-- {{Observação}}
+- O uso de **"this"** é essencial para referenciar os elementos da classe internamente.
+- Métodos como `acelerar()` e `frear()` alteram diretamente os atributos do objeto.
 
