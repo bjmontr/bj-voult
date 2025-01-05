@@ -58,7 +58,7 @@ Adicione aqui um breve resumo dos tópicos estudados e o que foi mais importante
 
 ---
 
-### 🧩 5. Construtor
+### 🧩 5. Tópico
 
 - **O que é?**
 Métodos especiais usados para instanciar objetos.
@@ -89,6 +89,6 @@ public class Carro {
 
 ### 💡 **Observações e Insights**
 
-- O uso de **"this"** é essencial para referenciar os elementos da classe internamente.
-- Métodos como `acelerar()` e `frear()` alteram diretamente os atributos do objeto.
+- {{Observação}}
+- {{Observação}}
 
