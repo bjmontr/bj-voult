@@ -49,5 +49,9 @@ Adicione aqui um breve resumo dos tópicos estudados e o que foi mais importante
   }```
 
 - **Objetos**: 
+```java
+	Carro fusca = new Carro(); 
 ```
-```
+- Passos para criar um objeto:
+	1. Declare o tipo da variável (`Carro`).
+	2. Use o operador `new` para instanciar.
