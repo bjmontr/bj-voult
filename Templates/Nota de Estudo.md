@@ -10,7 +10,6 @@ tags: #exemplo, #estudo, #materia
 **Tema Principal**:  
 
 **Fonte**: [Link ou referência à fonte]  
-**Autor/Origem**:  
 
 ---
 
