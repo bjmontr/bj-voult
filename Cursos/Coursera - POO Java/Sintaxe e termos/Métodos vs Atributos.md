@@ -14,9 +14,27 @@ date:
 | Inicialização | Inicializados na criação do objeto.        | Definem as ações do objeto, não armazenam dados.    |
 
 ---
----
 
 ## 💻 Exemplo de Implementação
+
+### Atributos
+
+- **Classe:**
+```java
+public class Carro {
+	int potencia;
+	float velocidade;
+	String cor;
+}
+```
+
+- **Objeto:**
+```java
+civic.potencia = 150;
+civic.velocidade = 140.5f;
+civic.cor = "azul";
+```
+
 
 ---
 
