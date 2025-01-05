@@ -37,12 +37,11 @@ date: 2024-12-23
 
 ### 🧩 3. {{Tópico}}  
 
-| Aspecto       | Atributos                                  | 
-| ------------- | ------------------------------------------ | --------------------------------------------------- |
-| Definição     | Representam o estado ou dados de um objeto | Representam o comportamento ou ação de um objeto.   |
-| Função        | Armazenam informações sobre o objeto.      | Executam ações ou manipulam os atributos do objeto. |
-| Visibilidade  | Podem ser privados (encapsulamento).       | Podem ser públicos ou privados.                     |
-| Inicialização | Inicializados na criação do objeto.        | Definem as ações do objeto, não armazenam dados.    |
+| **Classe**     | **Objeto**                           |
+| -------------- | ------------------------------------ |
+| Abstrato       | Concreto                             |
+| Tem atributos  | Tem valores especÍficos.             |
+| Define métodos | Podem ser privados (encapsulamento). |
 
 ---
 
