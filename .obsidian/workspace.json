@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "Roadmap Java"
             }
-          },
-          {
-            "id": "898e8aa6cbfbb5eb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
           }
         ]
       }
