@@ -32,4 +32,14 @@
 		- Completable Future
 	- Networking:
 		- HttpURLConnection
-		- Http
+		- HttpClient
+		- JDBC
+		- Drivers
+- **Ferramentas:**
+	- Build tools:
+		- Gradle
+		- Maven
+	- Web frameworks:
+		- Spring
+	- Test:
+		- 
