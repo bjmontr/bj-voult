@@ -42,4 +42,5 @@
 	- Web frameworks:
 		- Spring
 	- Test:
-		- 
+		- JUnit
+		- Mockito
