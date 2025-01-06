@@ -1,7 +1,7 @@
 
 - **Fundamentos:**
 	- 1.1 POO
-		- [[Semana 1 - Classes e objetos]]
+		- ()[[Semana 1 - Classes e objetos]]
 			- Classes
 			- Objetos
 		- Herança
@@ -43,12 +43,14 @@
 		- JDBC
 		- Drivers
 		
-- **Ferramentas:**
-	- Build tools:
+- 3. **Ferramentas:**
+	- 3.1 Build tools:
 		- Gradle
 		- Maven
-	- Web frameworks:
+		
+	- 3.2 Web frameworks:
 		- Spring
-	- Test:
+		
+	- 3.3 Test:
 		- JUnit
 		- Mockito
