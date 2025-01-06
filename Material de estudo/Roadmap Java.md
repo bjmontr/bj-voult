@@ -4,10 +4,10 @@
 		- [[Semana 1 - Classes e objetos]]
 			- Classes
 			- Objetos
-
 		- Herança
 		- Polimorfismo
-	- Sintaxe base
+		
+	- 1.2 Sintaxe base
 		- Listas
 		- Arrays
 		- Condicionais
@@ -15,15 +15,19 @@
 		- Sobrecarga
 		- Packages
 		- Visibilidade
-[Curso Java para iniciantes](https://www.youtube.com/watch?v=nODe5lFcGpg)
-[Java: conceitos, dicas e desenvolvimento](https://www.youtube.com/watch?v=QXunBiLq2SM&list=PLNCSWIsR6ADISYlzI7POWQqYQ8x0VwNqh)
-- **Avançado:**
-	- Essência:
+		
+	- Referencias:
+		- [Curso Java para iniciantes](https://www.youtube.com/watch?v=nODe5lFcGpg)
+		- [Java: conceitos, dicas e desenvolvimento](https://www.youtube.com/watch?v=QXunBiLq2SM&list=PLNCSWIsR6ADISYlzI7POWQqYQ8x0VwNqh)
+		
+- **2. Avançado:**
+	- 2.1 Essência:
 		- JVM
 		- JDK
 		- Gerenciamento de memória
 		- Coletor de lixo
-	- Sintaxe avançada:
+		
+	- 2.2 Sintaxe avançada:
 		- Casting
 		- Generics
 		- Streams
@@ -32,11 +36,13 @@
 		- HashMap
 		- Threads
 		- Completable Future
-	- Networking:
+		
+	- 2.3 Networking:
 		- HttpURLConnection
 		- HttpClient
 		- JDBC
 		- Drivers
+		
 - **Ferramentas:**
 	- Build tools:
 		- Gradle
