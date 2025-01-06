@@ -31,8 +31,7 @@
               "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +184,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "898e8aa6cbfbb5eb",
+  "active": "71cab55c400c0374",
   "lastOpenFiles": [
     "Material de estudo/Roadmap Java.md",
     "Material de estudo/Coursera - POO Java/Semana 1 - Classes e objetos.md",
