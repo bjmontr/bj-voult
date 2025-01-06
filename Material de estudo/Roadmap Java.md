@@ -5,4 +5,9 @@
 		- Objetos
 		- Herança
 		- Polimorfismo
-	- 
+	- Sintaxe base
+		- Listas
+		- Arrays
+		- Condicionais
+		- Exceções
+		- Sobrecarga
