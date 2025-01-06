@@ -21,4 +21,15 @@
 		- JDK
 		- Gerenciamento de memória
 		- Coletor de lixo
-		- 
+	- Sintaxe avançada:
+		- Casting
+		- Generics
+		- Streams
+		- Collections
+		- Map
+		- HashMap
+		- Threads
+		- Completable Future
+	- Networking:
+		- HttpURLConnection
+		- Http
