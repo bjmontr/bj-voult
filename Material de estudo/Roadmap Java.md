@@ -1,9 +1,10 @@
 
 - **Fundamentos:**
-	- POO
-		[[Semana 1 - Classes e objetos]]
-		- Classes
-		- Objetos
+	- 1.1 POO
+		- [[Semana 1 - Classes e objetos]]
+			- Classes
+			- Objetos
+
 		- Herança
 		- Polimorfismo
 	- Sintaxe base
