@@ -1,7 +1,7 @@
 
 - **Fundamentos:**
 	- POO
-		[[Semana 1]]
+		[[Semana 1 - Classes e objetos]]
 		- Classes
 		- Objetos
 		- Herança

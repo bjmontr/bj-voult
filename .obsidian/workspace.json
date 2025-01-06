@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Roadmap Java"
             }
+          },
+          {
+            "id": "898e8aa6cbfbb5eb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4c596be5119af457",
@@ -175,10 +185,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "71cab55c400c0374",
+  "active": "898e8aa6cbfbb5eb",
   "lastOpenFiles": [
-    "README.md",
     "Material de estudo/Roadmap Java.md",
+    "Material de estudo/Coursera - POO Java/Semana 1 - Classes e objetos.md",
+    "README.md",
     "Templates/Nota de Estudo.md",
     "conflict-files-obsidian-git.md",
     "Coursera - POO Java/Classes e objetos.md",
@@ -188,7 +199,6 @@
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Construtores.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos",
-    "Material de estudo/Coursera - POO Java/Semana 1.md",
     "Material de estudo/Coursera - POO Java",
     "Material de estudo",
     "Coursera - POO Java/Exemplos de classe em Java.md",
