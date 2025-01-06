@@ -11,3 +11,8 @@
 		- Condicionais
 		- Exceções
 		- Sobrecarga
+		- Packages
+		- Visibilidade
+[https://www.youtube.com/watch?v=nODe5lFcGpg] - 
+- **Avançado:**
+	- 
