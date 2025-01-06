@@ -22,3 +22,4 @@ Abaixo estão as principais pastas e sua descrição:
 1. Clone este repositório no seu computador:
    ```bash
    git clone https://github.com/bllakk/bllakk-vault.git
+   ```

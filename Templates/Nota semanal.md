@@ -1,13 +1,7 @@
 ---
-title: "{{title}}" # Substituído pelo título da nota
-date: {{date}} # Data de criação automática
-tags: #exemplo, #estudo, #materia
----
-# Semana {{número da semana}}
-
-## 🗓 Resumo da Semana  
- 
-
+title: "{{title}}"
+tags: 
+date:
 ---
 
 ## 📖 Tópicos Estudados  

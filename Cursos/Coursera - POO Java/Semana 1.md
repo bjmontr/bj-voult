@@ -5,11 +5,6 @@ tags:
   - java
 date: 2024-12-23
 ---
-# Semana 1
-
-## 🗓 Resumo da Semana  
- 
----
 
 ## 📖 Tópicos Estudados  
 
