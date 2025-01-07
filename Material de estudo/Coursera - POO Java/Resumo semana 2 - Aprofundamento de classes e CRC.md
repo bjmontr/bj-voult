@@ -13,9 +13,10 @@ date: 2025-01-06
  - Conceitos:
 	 - Dividir o códigos em varias classes, é uma boa prática dividir a responsabilidade do código em varias classes para posteriormente ajudar na manutenção.
 		
-	 Exemplo:
+	 - Exemplo:
 		 Uma pizzaria precisa calcular o valor de cada sabor de pizza, e precisa calcular o valor da entrega.
-		 Para isso iremos construir a classe pizza, para construir a nossa pizza, também iremos construir a classe entrega para calcular a rota, e para finalizar construiríamos a classe 
+		 Para isso iriamos ter as seguintes classes:
+		 - `class Pizza`: Calcular o preço baseado nos ingredientes 
 
 ---
 
