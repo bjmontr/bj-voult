@@ -10,7 +10,10 @@ date: 2025-01-06
 
 ### 🧩 1. Relacionamento entre classes
 
- 
+ - Conceitos:
+	 - Dividir o códigos em varias classes
+	Exemplo:
+		
 
 ---
 
