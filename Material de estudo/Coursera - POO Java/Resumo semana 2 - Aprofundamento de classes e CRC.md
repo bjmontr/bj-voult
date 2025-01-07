@@ -16,7 +16,11 @@ date: 2025-01-06
 	 - Exemplo:
 		 Uma pizzaria precisa calcular o valor de cada sabor de pizza, e precisa calcular o valor da entrega.
 		 Para isso iriamos ter as seguintes classes:
-		 - `class Pizza`: Calcular o preço baseado nos ingredientes 
+		 - `class Pizza`: Calcular o preço baseado nos ingredientes da pizza.
+		 - `class Entrega`: Calcula a entrega baseado no dia da semana e na distância.
+		 - `class Carrinho`: Calcula o valor total da compra com as pizzas e a entrega.
+	
+	Com esse conceitos iremos ter um código mais fácil de ler, 
 
 ---
 
