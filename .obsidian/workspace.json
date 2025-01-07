@@ -11,10 +11,14 @@
             "id": "bdc632fe39dbbe78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -169,8 +173,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "64789b9bed9fafc0",
+  "active": "bdc632fe39dbbe78",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos/O que é void.md",
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Construtores.md",
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos",
+    "Material de estudo/Coursera - POO Java/Resumo semana 1 - Classes e objetos.md",
+    "Material de estudo/Roadmap Java.md",
+    "Material de estudo/Coursera - POO Java",
+    "Material de estudo",
     "Cursos/Coursera - POO Java/Untitled.md",
     "Templates/Nota semanal.md",
     "Templates/Nota de estudo.md",
@@ -192,19 +205,13 @@
     "Cursos/Coursera - POO Java/Sintaxe e termos",
     "Coursera - POO Java/Sintaxe.md",
     "Coursera - POO Java/Exemplos de classes em Java.md",
-    "conflict-files-obsidian-git.md",
     "Lógica de programação/Tipos de dados e estruturas primitívas.md",
     "Lógica de programação/Variáveis e Constantes.md",
     "Lógica de programação/Estrutura de decisão.md",
     "Cursos/Coursera - POO Java",
     "Lógica de programação/Comandos de decisão.md",
-    "Lógica de programação/Introdução a Algoritmos.md",
     "Projetos",
     "images/exemplo-fluxograma.png",
-    "images/fluxograma.png",
-    "images/fluxograma.png.crdownload",
-    "images",
-    "Desenvolvimento Dinamico/Funções.md",
-    "Lógica de programação"
+    "images/fluxograma.png"
   ]
 }

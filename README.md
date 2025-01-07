@@ -6,7 +6,7 @@ Aqui contém minhas anotações de estudos que fazem sentindo para mim.
 
 Abaixo estão as principais pastas e sua descrição:
 
-- 📚 **Cursos**: Anotações dos cursos/faculdade.
+- 📚 **Material de estudo**: Anotações dos cursos/faculdade.
 - **📚 Biblioteca**: Resumo de livros.
 - **📂 Projetos**: Documentação e planejamento dos meus projetos em andamento.
 - **🗂 Templates**: Modelos de notas para facilitar o registro de informações.
