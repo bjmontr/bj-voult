@@ -11,10 +11,14 @@
             "id": "bdc632fe39dbbe78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Material de estudo/Coursera - POO Java/Resumo semana 2 -.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Resumo semana 2 -"
             }
           }
         ]
@@ -171,6 +175,7 @@
   },
   "active": "bdc632fe39dbbe78",
   "lastOpenFiles": [
+    "Material de estudo/Coursera - POO Java/Resumo semana 2 -.md",
     "conflict-files-obsidian-git.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/O que é void.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
@@ -205,7 +210,6 @@
     "Lógica de programação/Variáveis e Constantes.md",
     "Lógica de programação/Estrutura de decisão.md",
     "Cursos/Coursera - POO Java",
-    "Lógica de programação/Comandos de decisão.md",
     "Projetos",
     "images/exemplo-fluxograma.png",
     "images/fluxograma.png"
