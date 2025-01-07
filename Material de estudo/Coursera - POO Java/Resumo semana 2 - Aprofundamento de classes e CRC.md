@@ -1,7 +1,9 @@
 ---
-title: "{{title}}"
-tags: 
-date:
+title: Resumo semana 2 - Aprofundamento de classes e CRC
+tags:
+  - java
+  - poo
+date: 2025-01-06
 ---
 
 ## 📖 Tópicos Estudados  
