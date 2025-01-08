@@ -10,25 +10,7 @@ Você deve criar um modelo de sistema para uma garagem especializada em carros J
 
 ### Responsabilidades da classe:
 
-Car:
-   - Atributos:
-     - Modelo
-     - Fabricante
-     - Ano
-     - Motor
-     - Modificacoes
-     - Peças
-   - Métodos:
-     - Adicionar modificacoes
-     - Remover modificacoes
-     - Mostrar detalhes do carro
-2. Motor:
-   - Atributos:
-     - Tipo
-     - Potencia
-   - Metodos:
-     - Mostrar detalhes do motor
-3. Peca:
-   - Atributos:
-     - Nome
-     - Tipo
+**Car**:
+- Attributes;
+	- Model
+	- Manufacturer
