@@ -44,3 +44,12 @@ Você deve criar um modelo de sistema para uma garagem especializada em carros J
 	- Details
 - **Methods**:
 	- Description
+
+#### Garage
+- **Attributes**:
+	- Cars
+	- max Capacity
+- **Methods**:
+	- Add cars
+	- Remove cars
+	- List cars
