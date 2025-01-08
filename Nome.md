@@ -35,3 +35,12 @@ Você deve criar um modelo de sistema para uma garagem especializada em carros J
 	- name
 	- type
 	- originality
+- **Methods**:
+	- Description
+
+#### Modifications
+- **Attributes**:
+	- Type
+	- Details
+- **Methods**:
+	- Description
