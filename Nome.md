@@ -1,14 +1,14 @@
-# Exercicio-Montadora-Java
+# LibertyWalk-Java
 
 ---
 
-## Enunciado
+## Statement
 
-Você deve criar um modelo de sistema para uma garagem especializada em carros JDM, que tenha informações detalhadas sobre os carros, suas peças, tipos de modificações, entre outros. Você precisará usar relacionamentos entre as classes de forma complexa.
+You must create a system model for a garage specializing in JDM cars, which has detailed information about the cars, their parts, types of modifications, among others. You will need to use relationships between classes in a complex way.
 
 ---
 
-### Responsabilidades da classe:
+### Class responsibilities:
 
 #### Car:
 - **Attributes**:
