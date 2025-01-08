@@ -21,7 +21,17 @@ Você deve criar um modelo de sistema para uma garagem especializada em carros J
 - **Methods**:
 	- Add mods
 	- Remove mods
-	- Descriptions
+	- Description
 
 #### Engine:
-- 
+- **Attributes**:
+	- Type
+	- Power
+- **Methods**:
+	- Description
+
+#### Car parts
+- **Attributes**:
+	- name
+	- type
+	- originality
