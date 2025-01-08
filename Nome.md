@@ -10,7 +10,15 @@ Você deve criar um modelo de sistema para uma garagem especializada em carros J
 
 ### Responsabilidades da classe:
 
-**Car**:
-- Attributes;
+#### Car:
+- **Attributes**:
 	- Model
 	- Manufacturer
+	- Year
+	- Engine
+	- Modifications
+	- Car Parts
+- **Methods**:
+	- Add mods
+	- Remove mods
+	- 
