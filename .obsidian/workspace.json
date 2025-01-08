@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material de estudo/Coursera - POO Java/Sintaxe e termos/Construtores.md",
+                "file": "Material de estudo/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Construtores"
+              "title": "Métodos vs Atributos"
             }
           }
         ]
@@ -177,10 +177,11 @@
   },
   "active": "1f2c2fb91f2c1c00",
   "lastOpenFiles": [
+    "Material de estudo/Coursera - POO Java/Resumo semana 1 - Classes e objetos.md",
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Construtores.md",
     "Material de estudo/Coursera - POO Java/Resumo semana 2 - Aprofundamento de classes e CRC.md",
     "conflict-files-obsidian-git.md",
     "Material de estudo/Roadmap Java.md",
-    "Material de estudo/Coursera - POO Java/Resumo semana 1 - Classes e objetos.md",
     "README.md",
     "Templates/Nota de Estudo.md",
     "Coursera - POO Java/Classes e objetos.md",
@@ -188,7 +189,6 @@
     "Templates",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/O que é void.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
-    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Construtores.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos",
     "Material de estudo/Coursera - POO Java",
     "Material de estudo",

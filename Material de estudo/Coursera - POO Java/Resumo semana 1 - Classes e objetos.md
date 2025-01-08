@@ -19,7 +19,6 @@ date: 2024-12-23
 ---
 
 ### 🧩 2. Comportamento e Estado das Classes  
-
 [[Métodos vs Atributos]]
 
 - **Conceitos:**
