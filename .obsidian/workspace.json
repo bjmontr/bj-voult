@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3719fff90c8c5ee5",
+        "id": "11c8342f76b37625",
         "type": "tabs",
         "children": [
           {
-            "id": "1f2c2fb91f2c1c00",
+            "id": "f3daf5da4cef4b18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material de estudo/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
+                "file": "Nome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Métodos vs Atributos"
+              "title": "Nome"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "4c596be5119af457",
@@ -175,10 +174,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f2c2fb91f2c1c00",
+  "active": "f3daf5da4cef4b18",
   "lastOpenFiles": [
-    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Construtores.md",
+    "Nome.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Construtores.md",
     "Material de estudo/Coursera - POO Java/Resumo semana 1 - Classes e objetos.md",
     "Material de estudo/Coursera - POO Java/Resumo semana 2 - Aprofundamento de classes e CRC.md",
     "conflict-files-obsidian-git.md",
