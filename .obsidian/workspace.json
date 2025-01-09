@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material de estudo/Coursera - POO Java/Resumo semana 2 - Aprofundamento de classes e CRC.md",
+                "file": "Material de estudo/Coursera - POO Java/Resumo semana 3 - Teste de unidade, diagrama UML, Colaboração.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumo semana 2 - Aprofundamento de classes e CRC"
+              "title": "Resumo semana 3 - Teste de unidade, diagrama UML, Colaboração"
             }
           }
         ]
@@ -176,8 +176,9 @@
   },
   "active": "6a51ecf041325072",
   "lastOpenFiles": [
-    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Relacionamento entre classes.md",
     "Material de estudo/Coursera - POO Java/Resumo semana 2 - Aprofundamento de classes e CRC.md",
+    "Material de estudo/Coursera - POO Java/Resumo semana 3 - Teste de unidade, diagrama UML, Colaboração.md",
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Relacionamento entre classes.md",
     "Templates/Nota de Estudo.md",
     "Material de estudo/Coursera - POO Java/Resumo semana 1 - Classes e objetos.md",
     "conflict-files-obsidian-git.md",
@@ -212,7 +213,6 @@
     "images/fluxograma.png",
     "images/fluxograma.png.crdownload",
     "images",
-    "Desenvolvimento Dinamico/Funções.md",
     "Lógica de programação"
   ]
 }
