@@ -38,7 +38,8 @@ Dividir a responsabilidade do código em várias classes diferentes.
 	
 - **Desvantagens:**
 	- Complexidade
-	- Ac 
+	- Herança excessiva
+	- Desempenho
 
 ---
 
@@ -130,6 +131,8 @@ public class Main {
 ---
 
 ## ⚡ Melhores Práticas
+
+- 
 
 ---
 
