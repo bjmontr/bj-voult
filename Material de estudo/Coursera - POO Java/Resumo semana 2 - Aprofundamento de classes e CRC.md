@@ -28,8 +28,9 @@ date: 2025-01-06
 
 - **Programação estruturada**: 
 	- As funções recebem o parâmetro para retornar um valor com base no que recebeu.
-	- Tambem pode ter variaveis globais 
-
+	- Também pode ter variáveis globais que a função também pode acessar.
+- **Programação orientada a objetos**:
+	- Temos uma classe, com base nessa classe criamos objetos, passamos parametros e
 
 ---
 
