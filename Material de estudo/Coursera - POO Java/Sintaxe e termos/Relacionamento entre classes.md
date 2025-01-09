@@ -140,9 +140,10 @@ public class Main {
 ## ⚡ Melhores Práticas
 
 - **Favor composição à herança**: Em muitos casos, a composição (ao invés da herança) pode ser uma solução mais flexível, pois evita a rigidez e o alto acoplamento da herança.
-- Mantenha o baixo acoplamento:
-- Use interfaces e classes abstratas
-- Princípio de responsabilidade 
+- **Mantenha o baixo acoplamento**:
+- **Use interfaces e classes abstratas**: 
+- **Princípio de responsabilidade única (SRP)**
+- **Evite dependências cíclicas**:
 
 ---
 
