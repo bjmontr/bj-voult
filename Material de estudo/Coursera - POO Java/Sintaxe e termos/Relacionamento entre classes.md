@@ -14,13 +14,14 @@ Dividir a responsabilidade do código em várias classes diferentes.
 
 ## 📝 Principais Características
 
-- **Otimização do código**: Com a divisão das responsabilidades o código ficará menos bagunçado e mais legível.
+- **Associação**:
+	- **Unilateral**: Uma classe conhece i pode acessar a 
 
 ---
 
 ## 💻 Exemplo de Implementação
 
-[Link do código]([bllakk/LibertyWalk-Java](https://github.com/bllakk/LibertyWalk-Java))
+[Link de projeto]([bllakk/LibertyWalk-Java](https://github.com/bllakk/LibertyWalk-Java))
 
 - Classe `Motor`: 
 	- Contém a definição da classe `Motor`, com um atributo `tipo` e um método para retornar esse tipo.
