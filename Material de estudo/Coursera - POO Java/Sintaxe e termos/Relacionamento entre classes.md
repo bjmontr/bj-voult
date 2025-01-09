@@ -141,9 +141,11 @@ public class Main {
 
 - **Favor composição à herança**: Em muitos casos, a composição (ao invés da herança) pode ser uma solução mais flexível, pois evita a rigidez e o alto acoplamento da herança.
   
-- **Mantenha o baixo acoplamento**: 
-- **Use interfaces e classes abstratas**: 
-- **Princípio de responsabilidade única (SRP)**
+- **Mantenha o baixo acoplamento**: Sempre que possível, evite criar dependências fortes entre classes.
+  
+- **Use interfaces e classes abstratas**: Para promover a flexibilidade, use interfaces e classes abstratas para definir contratos.
+  
+- **Princípio de responsabilidade única (SRP)**: Cada classe deve ter uma única responsabilidade, o que ajuda a manter 
 - **Evite dependências cíclicas**:
 
 ---
