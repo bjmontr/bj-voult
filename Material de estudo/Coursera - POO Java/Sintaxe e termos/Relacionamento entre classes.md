@@ -31,6 +31,10 @@ Dividir a responsabilidade do código em várias classes diferentes.
 ## 🧩 Vantagens e Desvantagens
 
 - **Vantagens:**
+	- Reutilização de código
+	- Facilidade de manutenção
+	- Encapsulamento
+	- 
 - **Desvantagens:**
 
 ---
