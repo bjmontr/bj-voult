@@ -47,12 +47,10 @@ public class Pessoa {
 public class Endereco {
 private String rua; 
 private String cidade; 
-
 	public Endereco(String rua, String cidade) {
 		this.rua = rua; 
 		this.cidade = cidade; 
 	} 
-
 	public String getRua() {
 		return rua; 
 	} 
@@ -64,7 +62,29 @@ private String cidade;
 
 - Classe `Cadastro`:
 ```java
+public class Endereco {
+private String rua; 
+private String cidade; 
+	public Endereco(String rua, String cidade) {
+		this.rua = rua;
+		this.cidade = cidade; 
+	} 
+	public String getRua() {
+		return rua; 
+	} 
+	public String getCidade() {
+		return cidade; 
+	} 
+}
+```
 
+- Classe `Main`:
+```java
+public class Main { public static void main(String[] args) {
+Pessoa pessoa = new Pessoa("João", 30);
+Endereco endereco = new Endereco("Rua das Flores", "São Paulo"); 
+Cadastro cadastro = new Cadastro(pessoa, endereco); 
+cadastro.mostrarCadastro(); } }
 ```
 ---
 
