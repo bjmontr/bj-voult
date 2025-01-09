@@ -22,46 +22,41 @@ Dividir a responsabilidade do código em várias classes diferentes.
 
 [Link do código]([bllakk/LibertyWalk-Java](https://github.com/bllakk/LibertyWalk-Java))
 
-- Classe `Pessoa`
+- Classe `Motor`
 ```java
-public class Pessoa {
-	private String nome;
-	private int idade; 
-	
-	 public Pessoa(String nome, int idade) {
-		this.nome = nome; 
-		this.idade = idade; 
-	} 
+// Motor.java
+public class Motor {
+    private String tipo;
 
-	public String getNome() {
-		 return nome; 
-	} 
-	
-	public int getIdade() { 
-	 return idade; 
-	 } 
+    public Motor(String tipo) {
+        this.tipo = tipo;
+    }
+
+    public String getTipo() {
+        return tipo;
+    }
 }
+
 ```
 
-- Classe `Endereço`:
+- Classe `Roda`:
 ```java
-public class Endereco {
-private String rua; 
-private String cidade; 
-	public Endereco(String rua, String cidade) {
-		this.rua = rua; 
-		this.cidade = cidade; 
-	} 
-	public String getRua() {
-		return rua; 
-	} 
-	public String getCidade() {
-		return cidade; 
-	} 
+// Roda.java
+public class Roda {
+    private String tamanho;
+
+    public Roda(String tamanho) {
+        this.tamanho = tamanho;
+    }
+
+    public String getTamanho() {
+        return tamanho;
+    }
 }
+
 ```
 
-- Classe `Cadastro`:
+- Classe `Carro`:
 ```java
 public class Endereco {
 private String rua; 
