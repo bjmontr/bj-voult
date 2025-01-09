@@ -40,10 +40,13 @@ Dividir a responsabilidade do código em várias classes diferentes.
 	- **Facilidade em adicionar novas funcionalidades**: Usando herança e composição, você pode adicionar novas funcionalidades sem modificar as classes existentes.
 	
 - **Desvantagens:**
-	- **Complexidade**:
-	- **Acoplamento**:
-	- **Herança excessiva**:
-	- **Desempenho**:
+	- **Complexidade**: Relacionamentos entre classes podem aumentar a complexidade do código, tornando-o difícil de entender e manter, especialmente em sistemas grandes e mal projetados.
+	  
+	- **Acoplamento**: Se o relacionamento entre as classes for muito forte (como na composição), isso pode aumentar o acoplamento, tornando o sistema mais difícil de modificar e testar.
+	  
+	- **Herança excessiva**: O uso indevido da herança pode levar a hierarquias profundas e difíceis de entender, além de tornar a modificação de classes superclasses mais arriscada.
+	  
+	- **Desempenho**: O uso de certos tipos de relacionamentos, como a composição, pode causar um pequeno overhead de desempenho, dependendo de como os objetos são gerenciados.
 
 ---
 
@@ -136,7 +139,7 @@ public class Main {
 
 ## ⚡ Melhores Práticas
 
-- 
+- Favor composição à herança: Em muitos casos, a composição(ao inv´s)
 
 ---
 
