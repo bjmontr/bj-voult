@@ -22,7 +22,8 @@ Dividir a responsabilidade do código em várias classes diferentes.
 
 [Link do código]([bllakk/LibertyWalk-Java](https://github.com/bllakk/LibertyWalk-Java))
 
-- Classe `Motor`
+- Classe `Motor`: 
+	- Contém a definição da classe `Motor`, com um atributo `tipo` e um método para retornar esse tipo.
 ```java
 // Motor.java
 public class Motor {
@@ -39,7 +40,8 @@ public class Motor {
 
 ```
 
-- Classe `Roda`:
+- Classe `Roda`: 
+	- Define a classe `Roda`, que tem um atributo `tamanho` e um método para retornar esse tamanho.
 ```java
 // Roda.java
 public class Roda {
@@ -56,33 +58,50 @@ public class Roda {
 
 ```
 
-- Classe `Carro`:
+- Classe `Carro`: 
+	- A classe `Carro` tem um relacionamento de associação com a classe `Motor` e um relacionamento de composição com a classe `Roda`, representando o carro com motor e rodas.
 ```java
-public class Endereco {
-private String rua; 
-private String cidade; 
-	public Endereco(String rua, String cidade) {
-		this.rua = rua;
-		this.cidade = cidade; 
-	} 
-	public String getRua() {
-		return rua; 
-	} 
-	public String getCidade() {
-		return cidade; 
-	} 
+// Carro.java
+public class Carro {
+    private Motor motor;  // Associação: Carro tem um Motor
+    private Roda[] rodas; // Composição: Carro tem várias Rodas
+
+    public Carro(Motor motor, Roda[] rodas) {
+        this.motor = motor;
+        this.rodas = rodas;
+    }
+
+    public void exibirDetalhes() {
+        System.out.println("Carro com motor tipo: " + motor.getTipo());
+        System.out.print("Rodas: ");
+        for (Roda roda : rodas) {
+            System.out.print(roda.getTamanho() + " ");
+        }
+        System.out.println();
+    }
 }
+
 ```
 
 - Classe `Main`:
+	- Classe responsável pela execução do programa. Cria instâncias de `Motor` e `Roda`, e então cria um `Carro` usando essas instâncias, exibindo os detalhes do carro.
 ```java
-public class Main { public static void main(String[] args) {
-	Pessoa pessoa = new Pessoa("João", 30);
-	Endereco endereco = new Endereco("Rua das Flores", "São Paulo"); 
-	Cadastro cadastro = new Cadastro(pessoa, endereco); 
-	cadastro.mostrarCadastro(); 
-	} 
+// Main.java
+public class Main {
+    public static void main(String[] args) {
+        Motor motor = new Motor("V8");  // Exemplo de motor
+        Roda[] rodas = {
+            new Roda("18 polegadas"),
+            new Roda("18 polegadas"),
+            new Roda("18 polegadas"),
+            new Roda("18 polegadas")
+        };  // Exemplo de rodas
+
+        Carro carro = new Carro(motor, rodas);
+        carro.exibirDetalhes();
+    }
 }
+
 ```
 ---
 
