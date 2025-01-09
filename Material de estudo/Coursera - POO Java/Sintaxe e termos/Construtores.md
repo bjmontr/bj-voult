@@ -27,13 +27,6 @@ date: 2024-12-31
 
 ---
 
-## 🧩 Vantagens e Desvantagens
-
-- **Vantagens:**
-- **Desvantagens:**
-
----
-
 ## 💻 Exemplo de Implementação
 
 ```java

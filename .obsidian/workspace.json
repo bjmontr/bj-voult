@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6c0b26cad8363bfb",
+        "id": "11c8342f76b37625",
         "type": "tabs",
         "children": [
           {
-            "id": "bdc632fe39dbbe78",
+            "id": "f3daf5da4cef4b18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Material de estudo/Coursera - POO Java/Resumo semana 2 - Aprofundamento de classes e CRC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Resumo semana 2 - Aprofundamento de classes e CRC"
+              "title": "Nova aba"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 225.5
   },
   "right": {
     "id": "4c596be5119af457",
@@ -160,59 +156,58 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "bdc632fe39dbbe78",
+  "active": "64789b9bed9fafc0",
   "lastOpenFiles": [
-    "Material de estudo/Coursera - POO Java/Resumo semana 2 - Aprofundamento de classes e CRC.md",
-    "conflict-files-obsidian-git.md",
-    "Material de estudo/Coursera - POO Java/Sintaxe e termos/O que é void.md",
+    "Nome.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Construtores.md",
-    "Material de estudo/Coursera - POO Java/Sintaxe e termos",
     "Material de estudo/Coursera - POO Java/Resumo semana 1 - Classes e objetos.md",
+    "Material de estudo/Coursera - POO Java/Resumo semana 2 - Aprofundamento de classes e CRC.md",
+    "conflict-files-obsidian-git.md",
     "Material de estudo/Roadmap Java.md",
+    "README.md",
+    "Templates/Nota de Estudo.md",
+    "Coursera - POO Java/Classes e objetos.md",
+    "Templates/Nota semanal.md",
+    "Templates",
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos/O que é void.md",
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos",
     "Material de estudo/Coursera - POO Java",
     "Material de estudo",
-    "Cursos/Coursera - POO Java/Untitled.md",
-    "Templates/Nota semanal.md",
-    "Templates/Nota de estudo.md",
-    "README.md",
-    "Cursos/Coursera - POO Java/Semana 1.md",
-    "Cursos/Coursera - POO Java/Sintaxe e termos/Construtores.md",
-    "Cursos/Coursera - POO Java/Sintaxe e termos/O que é void.md",
-    "Cursos/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
-    "Cursos/Coursera - POO Java/Sintaxe e termos/O que é voidd.md",
-    "Cursos/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributoss.md",
-    "Cursos/Coursera - POO Java/Sintaxe e termos/Construtores---.md",
-    "Cursos/Coursera - POO Java/Exemplos de classe em Java.md",
-    "Cursos/Coursera - POO Java/Semana.md",
-    "Templates",
-    "Projetos",
-    "Biblioteca",
-    "Cursos",
-    "Projetos/Nods.md",
-    "Cursos/Coursera - POO Java/Sintaxe e termos",
+    "Coursera - POO Java/Exemplos de classe em Java.md",
+    "Coursera - POO Java/Construtores.md",
+    "Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
+    "Coursera - POO Java/Sintaxe e termos/O que é void.md",
+    "Coursera - POO Java/Sintaxe e termos",
     "Coursera - POO Java/Sintaxe.md",
     "Coursera - POO Java/Exemplos de classes em Java.md",
     "Lógica de programação/Tipos de dados e estruturas primitívas.md",
     "Lógica de programação/Variáveis e Constantes.md",
     "Lógica de programação/Estrutura de decisão.md",
-    "Cursos/Coursera - POO Java",
+    "Coursera - POO Java",
+    "Lógica de programação/Comandos de decisão.md",
+    "Lógica de programação/Introdução a Algoritmos.md",
+    "Projetos/Nods.md",
     "Projetos",
     "images/exemplo-fluxograma.png",
-    "images/fluxograma.png"
+    "images/fluxograma.png",
+    "images/fluxograma.png.crdownload",
+    "images",
+    "Desenvolvimento Dinamico/Funções.md",
+    "Lógica de programação"
   ]
 }
