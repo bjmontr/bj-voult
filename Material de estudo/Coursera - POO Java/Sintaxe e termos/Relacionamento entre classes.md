@@ -25,3 +25,9 @@ Dividir a responsabilidade do código em várias classes diferentes.
 ---
 
 ## ⚡ Melhores Práticas
+
+---
+
+## 📚 Referências 
+
+- Principais temas usados:
