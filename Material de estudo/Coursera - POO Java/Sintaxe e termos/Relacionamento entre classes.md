@@ -17,10 +17,14 @@ Dividir a responsabilidade do código em várias classes diferentes.
 - **Associação**:
 	- **Unilateral**: Uma classe conhece i pode acessar a outra, mas não o contrário.
 	- **Bilateral**: Ambas as classes se conhecem e podem acessar uma à outra;
+	
 - **Agregação**: Um tipo especial de associação, onde uma classe é compostas por outras, mas as partem podem existir independente da classe agregadora.
+
 - **Composição**: É uma forma mais forte de agregação, onde as partes não podem existir sem o todo.
+
 - **Herança**: Quando uma classe herda características e comportamentos de outra. A classe que herda é chamada de "subclasse", e a classe que é herdada é chamada de "superclasse".
-- **Dependência** Quando uma classe usa otr
+
+- **Dependência** Quando uma classe usa outra para realizar suas funções, geralmente temporariamente, como no caso de um método que recebe um parâmetro de outra classe.
 
 ---
 
