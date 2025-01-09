@@ -17,8 +17,9 @@ Dividir a responsabilidade do código em várias classes diferentes.
 - **Associação**:
 	- **Unilateral**: Uma classe conhece i pode acessar a outra, mas não o contrário.
 	- **Bilateral**: Ambas as classes se conhecem e podem acessar uma à outra;
-- **Agregação**: um tipo especial de associação, onde uma classe é compostas por outras, mas as partem podem existir independente da classe agregadora.
-- **Composição**: 
+- **Agregação**: Um tipo especial de associação, onde uma classe é compostas por outras, mas as partem podem existir independente da classe agregadora.
+- **Composição**: É uma forma mais forte de agregação, onde as partes não podem existir sem o todo.
+- 
 
 ---
 
