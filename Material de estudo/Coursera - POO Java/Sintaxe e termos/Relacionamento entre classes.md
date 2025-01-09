@@ -20,7 +20,10 @@ Dividir a responsabilidade do código em várias classes diferentes.
 
 ## 💻 Exemplo de Implementação
 
-()
+[Link do código]([bllakk/LibertyWalk-Java](https://github.com/bllakk/LibertyWalk-Java))
+
+
+
 ---
 
 ## ⚡ Melhores Práticas
