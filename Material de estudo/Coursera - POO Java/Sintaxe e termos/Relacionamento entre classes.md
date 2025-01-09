@@ -33,16 +33,17 @@ Dividir a responsabilidade do código em várias classes diferentes.
 - **Vantagens:**
 	- **Reutilização de código**: você pode reutilizar o código de outras classes, evitando duplicação e facilitando a manutenção.
 	  
-	- **Facilidade de manutenção**:
+	- **Facilidade de manutenção**: Relacionamentos bem definidos permitem que modificações em uma classe tenham impacto mínimo nas outras.
 	  
-	- **Encapsulamento**:
+	- **Encapsulamento**: Relacionamentos ajudam a definir limites claros entre as responsabilidades das classes, promovendo a separação de preocupações e melhorando a modularidade.
 	  
-	- **Facilidade em adicionar novas funcionalidades**:
+	- **Facilidade em adicionar novas funcionalidades**: Usando herança e composição, você pode adicionar novas funcionalidades sem modificar as classes existentes.
 	
 - **Desvantagens:**
-	- Complexidade
-	- Herança excessiva
-	- Desempenho
+	- **Complexidade**:
+	- **Acoplamento**:
+	- **Herança excessiva**:
+	- **Desempenho**:
 
 ---
 
