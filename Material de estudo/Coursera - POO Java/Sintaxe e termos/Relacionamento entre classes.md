@@ -20,8 +20,7 @@ Dividir a responsabilidade do código em várias classes diferentes.
 
 ## 💻 Exemplo de Implementação
 
-
-
+()
 ---
 
 ## ⚡ Melhores Práticas
