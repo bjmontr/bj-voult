@@ -28,6 +28,12 @@ Dividir a responsabilidade do código em várias classes diferentes.
 
 ---
 
+## 🧩 Vantagens e Desvantagens
+
+- **Vantagens:**
+- **Desvantagens:**
+---
+
 ## 💻 Exemplo de Implementação
 
 [Link de projeto]([bllakk/LibertyWalk-Java](https://github.com/bllakk/LibertyWalk-Java))
