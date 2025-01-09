@@ -145,8 +145,9 @@ public class Main {
   
 - **Use interfaces e classes abstratas**: Para promover a flexibilidade, use interfaces e classes abstratas para definir contratos.
   
-- **Princípio de responsabilidade única (SRP)**: Cada classe deve ter uma única responsabilidade, o que ajuda a manter a coesão da classe e melhora a legibilidade e testabilidade
-- **Evite dependências cíclicas**:
+- **Princípio de responsabilidade única (SRP)**: Cada classe deve ter uma única responsabilidade, o que ajuda a manter a coesão da classe e melhora a legibilidade e testabilidade do código.
+  
+- **Evite dependências cíclicas**: Evite situações em que deus classes dependem uma da outra, o que pode criar uma estrutura complexa e difícil testar.
 
 ---
 
