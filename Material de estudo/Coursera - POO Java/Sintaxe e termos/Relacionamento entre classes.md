@@ -81,10 +81,12 @@ private String cidade;
 - Classe `Main`:
 ```java
 public class Main { public static void main(String[] args) {
-Pessoa pessoa = new Pessoa("João", 30);
-Endereco endereco = new Endereco("Rua das Flores", "São Paulo"); 
-Cadastro cadastro = new Cadastro(pessoa, endereco); 
-cadastro.mostrarCadastro(); } }
+	Pessoa pessoa = new Pessoa("João", 30);
+	Endereco endereco = new Endereco("Rua das Flores", "São Paulo"); 
+	Cadastro cadastro = new Cadastro(pessoa, endereco); 
+	cadastro.mostrarCadastro(); 
+	} 
+}
 ```
 ---
 
