@@ -32,6 +32,7 @@ Dividir a responsabilidade do código em várias classes diferentes.
 
 - **Vantagens:**
 - **Desvantagens:**
+
 ---
 
 ## 💻 Exemplo de Implementação
