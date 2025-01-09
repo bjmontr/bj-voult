@@ -30,7 +30,9 @@ date: 2025-01-06
 	- As funções recebem o parâmetro para retornar um valor com base no que recebeu.
 	- Também pode ter variáveis globais que a função também pode acessar.
 - **Programação orientada a objetos**:
-	- Temos uma classe, com base nessa classe criamos objetos, passamos parametros e
+	- Temos uma classe, com base nessa classe criamos objetos, passamos parâmetros e parametrizar objetos.
+	- Não significa do os objetos da mesma classe irá funcionar da mesma forma.
+	- Um objeto executa seus métodos com base nos parâmetros recebidos e em dados internos.
 
 ---
 
