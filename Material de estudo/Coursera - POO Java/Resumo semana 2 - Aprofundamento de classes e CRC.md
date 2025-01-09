@@ -24,7 +24,7 @@ date: 2025-01-06
 
 ---
 
-### 🧩 2. Métodos e atributos estáticos
+### 🧩 2. Pensando em métodos orientados a objetos
 
 
 
