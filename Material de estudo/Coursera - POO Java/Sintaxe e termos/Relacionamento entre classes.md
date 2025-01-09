@@ -37,7 +37,8 @@ Dividir a responsabilidade do código em várias classes diferentes.
 	- Facilidade em adicionar novas funcionalidades
 	
 - **Desvantagens:**
-	- 
+	- Complexidade
+	- Ac 
 
 ---
 
