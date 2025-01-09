@@ -26,7 +26,9 @@ date: 2025-01-06
 
 ### 🧩 2. Pensando em métodos orientados a objetos
 
-
+- **Programação estruturada**: 
+	- As funções recebem o parâmetro para retornar um valor com base no que recebeu.
+	- Tambem pode ter variaveis globais 
 
 
 ---
