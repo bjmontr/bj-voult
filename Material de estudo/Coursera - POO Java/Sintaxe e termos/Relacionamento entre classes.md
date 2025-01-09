@@ -15,7 +15,9 @@ Dividir a responsabilidade do código em várias classes diferentes.
 ## 📝 Principais Características
 
 - **Associação**:
-	- **Unilateral**: Uma classe conhece i pode acessar a 
+	- **Unilateral**: Uma classe conhece i pode acessar a outra, mas não o contrário.
+	- **Bilateral**: Ambas as classes se conhecem e podem acessar uma à outra;
+- **Agregação**: 
 
 ---
 
