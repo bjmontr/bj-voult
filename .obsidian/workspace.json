@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "a8d5806d549c8a96",
+            "id": "862f4d8104f7dffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "4c596be5119af457",
@@ -190,11 +189,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a8d5806d549c8a96",
+  "active": "862f4d8104f7dffb",
   "lastOpenFiles": [
     "Material de estudo/Coursera - POO Java/Resumo semana 2 - Aprofundamento de classes e CRC.md",
-    "README.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Relacionamento entre classes.md",
+    "README.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Sem título.md",
     "conflict-files-obsidian-git.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/O que é void.md",

@@ -30,4 +30,6 @@ Dividir a responsabilidade do código em várias classes diferentes.
 
 ## 📚 Referências 
 
-- Principais temas usados:
+- **Principais temas usados**:
+	- [[Construtores]]
+	- [[Métodos vs Atributos]]
