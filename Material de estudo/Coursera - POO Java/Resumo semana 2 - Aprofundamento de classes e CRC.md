@@ -10,6 +10,8 @@ date: 2025-01-06
 
 ### 🧩 1. Relacionamento entre classes
 
+[[Relacionamento entre classes]]
+
  - **Conceito**:
 	 - Dividir o códigos em varias classes, é uma boa prática dividir a responsabilidade do código em varias classes para posteriormente ajudar na manutenção.
 		
@@ -24,8 +26,15 @@ date: 2025-01-06
 
 ---
 
-### 🧩 2. {{Tópico}}  
+### 🧩 2. Pensando em métodos orientados a objetos
 
+- **Programação estruturada**: 
+	- As funções recebem o parâmetro para retornar um valor com base no que recebeu.
+	- Também pode ter variáveis globais que a função também pode acessar.
+- **Programação orientada a objetos**:
+	- Temos uma classe, com base nessa classe criamos objetos, passamos parâmetros e parametrizar objetos.
+	- Não significa do os objetos da mesma classe irá funcionar da mesma forma.
+	- Um objeto executa seus métodos com base nos parâmetros recebidos e em dados internos.
 
 ---
 

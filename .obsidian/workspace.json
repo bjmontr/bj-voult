@@ -11,10 +11,14 @@
             "id": "f3daf5da4cef4b18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -169,14 +173,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64789b9bed9fafc0",
+  "active": "f3daf5da4cef4b18",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Relacionamento entre classes.md",
     "Nome.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Construtores.md",
     "Material de estudo/Coursera - POO Java/Resumo semana 1 - Classes e objetos.md",
     "Material de estudo/Coursera - POO Java/Resumo semana 2 - Aprofundamento de classes e CRC.md",
-    "conflict-files-obsidian-git.md",
     "Material de estudo/Roadmap Java.md",
     "README.md",
     "Templates/Nota de Estudo.md",
