@@ -22,7 +22,22 @@ Dividir a responsabilidade do código em várias classes diferentes.
 
 [Link do código]([bllakk/LibertyWalk-Java](https://github.com/bllakk/LibertyWalk-Java))
 
-
+```java
+public class Pessoa {
+	private String nome;
+	private int idade; 
+ // Construtor
+	 public Pessoa(String nome, int idade) {
+		this.nome = nome; this.idade = idade; 
+	} 
+	// Métodos getters 
+public String getNome() {
+	 return nome; } 
+	 public int getIdade() { 
+	 return idade; 
+	 } 
+	 }
+```
 
 ---
 
