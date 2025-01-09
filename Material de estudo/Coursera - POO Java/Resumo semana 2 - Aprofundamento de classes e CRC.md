@@ -10,6 +10,8 @@ date: 2025-01-06
 
 ### 🧩 1. Relacionamento entre classes
 
+[[Relacionamento entre classes]]
+
  - **Conceito**:
 	 - Dividir o códigos em varias classes, é uma boa prática dividir a responsabilidade do código em varias classes para posteriormente ajudar na manutenção.
 		

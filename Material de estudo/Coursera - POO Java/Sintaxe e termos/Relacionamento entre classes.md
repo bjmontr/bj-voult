@@ -14,19 +14,13 @@ Dividir a responsabilidade do código em várias classes diferentes.
 
 ## 📝 Principais Características
 
-- **{{Caracteristica}}**:
-- **{{Caracteristica}}**:
-
----
-
-## 🧩 Vantagens e Desvantagens
-
-- **Vantagens:**
-- **Desvantagens:**
+- **Otimização do código**: Com a divisão das responsabilidades o código ficará menos bagunçado e mais legível.
 
 ---
 
 ## 💻 Exemplo de Implementação
+
+
 
 ---
 
