@@ -8,12 +8,13 @@ date: 2025-01-09
 
 ## 📖 Tópicos Estudados  
 
-### 🧩 1. Importância de testes
+### 🧩 1. Importância de testes automatizados
 
 - **Importância**:
-	Vamos supor que tenhamos a classe A, logo iremos testar a classe A, em seguida foi criado a classe B, teremos que testar a classe
+	Vamos supor que tenhamos a classe A, logo iremos testar a classe A, em seguida foi criado a classe B, teremos que testar a classe B e em seguida testar a classe A, pois talvez a classe B tenha influenciado no código da classe A.
 
 - **Testes automatizados com JUnit**:
+
  
 
 ---
