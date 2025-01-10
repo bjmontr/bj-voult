@@ -24,7 +24,7 @@ date: 2025-01-09
 		- Testa o software como um todo de acordo com os requisitos.
 		
 - **Antes e depois dos testes**:
-	Vamos supor que é preciso fazer vários testes com várias classes de testes diferentes
+	Vamos supor que é preciso fazer vários testes com várias classes de testes diferentes, e para cada teste é preciso de um objeto, não é necessario criar o mesmo objeto para todas as classes de teste, apenas precisamos inserir esse objeto na classe 
 ---
 
 ### 🧩 2. {{Tópico}}  
