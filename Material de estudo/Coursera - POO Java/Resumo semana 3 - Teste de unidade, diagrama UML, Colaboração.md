@@ -23,8 +23,8 @@ date: 2025-01-09
 	- **Funcional**:
 		- Testa o software como um todo de acordo com os requisitos.
 		
-- **Criação de um teste unitário**:
-	- 
+- **Antes e depois dos testes**:
+	Vamos supor que é preciso fazer vários testes com várias classes de testes diferentes
 ---
 
 ### 🧩 2. {{Tópico}}  
