@@ -13,6 +13,9 @@ date: 2025-01-09
 - **Importância**:
 	Vamos supor que tenhamos a classe A, logo iremos testar a classe A, em seguida foi criado a classe B, teremos que testar a classe B e em seguida testar a classe A, pois talvez a classe B tenha influenciado no código da classe A.
 
+- **Tipos de testes**:
+	- 
+
 - **Testes automatizados com JUnit**:
 
  
