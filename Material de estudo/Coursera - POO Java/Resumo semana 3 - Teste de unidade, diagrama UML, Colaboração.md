@@ -25,7 +25,11 @@ date: 2025-01-09
 		
 - **Antes e depois dos testes**:
 	Para tornar nossos testes mais limpos e organizados, podemos utilizar métodos como `@BeforeAll`, `@BeforeEach`, `@AfterEach` e `@AfterAll`. Esses métodos ajudam a estruturar melhor o código, configurando o ambiente de teste de forma eficiente e garantindo uma limpeza adequada após a execução. Com isso, os testes se tornam mais legíveis, reutilizáveis e fáceis de manter.
-	- **Exemplo**d:
+	
+	- **Exemplo**:
+		Vamos realizar um teste de um CRUD com um banco.
+		
+		1. @BeforeAll
 ---
 
 ### 🧩 2. {{Tópico}}  
