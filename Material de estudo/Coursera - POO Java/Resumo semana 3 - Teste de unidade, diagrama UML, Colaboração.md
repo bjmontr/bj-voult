@@ -23,11 +23,6 @@ date: 2025-01-09
 	- **Funcional**:
 		- Testa o software como um todo de acordo com os requisitos.
 		
-- **Criando um teste de unidade**:
-	-  
-
- 
-
 ---
 
 ### 🧩 2. {{Tópico}}  
