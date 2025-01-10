@@ -24,7 +24,7 @@ date: 2025-01-09
 		- Testa o software como um todo de acordo com os requisitos.
 		
 - **Criando um teste de unidade**:
-	- 
+	-  
 
  
 
