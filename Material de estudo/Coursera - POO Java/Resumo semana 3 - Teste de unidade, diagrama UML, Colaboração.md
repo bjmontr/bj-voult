@@ -24,14 +24,7 @@ date: 2025-01-09
 		- Testa o software como um todo de acordo com os requisitos.
 		
 - **Antes e depois dos testes**:
-	Imagine que você está testando uma classe `Calculadora` e precisa configurar um objeto compartilhado para os testes.
-		
-	- Estrutura Narrativa Simples:
-		- **@BeforeAll**: Criar o objeto da classe `Calculadora` que será compartilhado por todos os testes.
-		- **@Before**: Configurar valores padrão antes de cada teste (ex.: zerar os resultados).
-		- **Testes**: Executar os métodos de soma, subtração, etc.
-		- **@After**: Limpar ou verificar logs, se necessário.
-		- **@AfterAll**: Finalizar o objeto e liberar recursos.
+	Existe alguns métodos que nos ajudam a deixar nosso teste mais limpo e organizado
 ---
 
 ### 🧩 2. {{Tópico}}  
