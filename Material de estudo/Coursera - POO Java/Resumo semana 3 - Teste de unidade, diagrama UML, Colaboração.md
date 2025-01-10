@@ -11,7 +11,7 @@ date: 2025-01-09
 ### 🧩 1. Importância de testes
 
 - **Importância**:
-	Vamos supor que tenhamos a classe A, logo iremos testar a 
+	Vamos supor que tenhamos a classe A, logo iremos testar a classe A, em seguida foi criado a classe B, teremos que testar a classe
 
 - **Testes automatizados com JUnit**:
  
