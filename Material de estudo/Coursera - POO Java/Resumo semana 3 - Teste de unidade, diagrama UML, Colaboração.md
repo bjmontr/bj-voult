@@ -24,7 +24,8 @@ date: 2025-01-09
 		- Testa o software como um todo de acordo com os requisitos.
 		
 - **Antes e depois dos testes**:
-	Existe alguns métodos que nos ajudam a deixar nosso teste mais limpo e organizado
+	Para tornar nossos testes mais limpos e organizados, podemos utilizar métodos como `@BeforeAll`, `@BeforeEach`, `@AfterEach` e `@AfterAll`. Esses métodos ajudam a estruturar melhor o código, configurando o ambiente de teste de forma eficiente e garantindo uma limpeza adequada após a execução. Com isso, os testes se tornam mais legíveis, reutilizáveis e fáceis de manter.
+	- **Exemplo**d:
 ---
 
 ### 🧩 2. {{Tópico}}  
