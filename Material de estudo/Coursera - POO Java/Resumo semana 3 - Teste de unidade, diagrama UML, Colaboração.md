@@ -10,6 +10,10 @@ date: 2025-01-09
 
 ### 🧩 1. Importância de testes
 
+- **Importância**:
+	Vamos supor que tenhamos a classe A, logo iremos testar a 
+
+- **Testes automatizados com JUnit**:
  
 
 ---
