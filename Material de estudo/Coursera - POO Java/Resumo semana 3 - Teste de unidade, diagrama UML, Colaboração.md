@@ -23,7 +23,7 @@ date: 2025-01-09
 	- **Funcional**:
 		- Testa o software como um todo de acordo com os requisitos.
 		
-- **Testes automatizados com JUnit**:
+- **Criando um teste de unidade**:
 	- 
 
  
