@@ -90,4 +90,7 @@ class Teste {
 ```
 ---
 
-## ⚡ Melhores Práticas
+## ⚡ Nomeclaturas
+
+- BeforeAll:
+	
