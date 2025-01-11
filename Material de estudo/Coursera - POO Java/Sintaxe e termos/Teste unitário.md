@@ -75,9 +75,17 @@ class Teste {
 	
 	@test
 	public void testeColocarCarroNaGaragem(){
-		// Testando se o carro e a garagem estão sendo cadas
+		// Testando se o carro e a garagem estão sendo cadastrados no banco
 	}
-	@
+	@afterEach
+	public void apagarRegistro(){
+		// Apagando os registros criados
+	}
+	
+	@afterAll
+	public void fechandoBanco(){
+		// Fechando o banco
+	}
 }
 ```
 ---
