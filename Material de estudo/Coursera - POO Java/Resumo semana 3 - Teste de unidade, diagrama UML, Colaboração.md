@@ -31,9 +31,9 @@ date: 2025-01-09
 		Vamos realizar um teste de um CRUD com um banco.
 		
 		1. `@beforeAll`: Abrir uma conexão com o banco.
-		2. `@before`: Adicionar dados padrão, como um usuário ou produto.
+		2. `@beforeEach`: Adicionar dados padrão, como um usuário ou produto.
 		3. `@test`: Adicionar, buscar e remover itens no banco.
-		4. `@after`: Apagar os registros criados 
+		4. `@afterEach`: Apagar os registros criados 
 ---
 
 ### 🧩 2. {{Tópico}}  

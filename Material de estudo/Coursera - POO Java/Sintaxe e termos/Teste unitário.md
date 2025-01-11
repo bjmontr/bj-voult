@@ -68,13 +68,16 @@ class Teste {
 		// Abertura do banco de dados
 	}
 	
-	@before 
+	@beforeEach 
 	public void criarObjetos(){
 		// Instanciando objetos que irão ser usados no teste
 	}
 	
 	@test
-	public void testeColocar
+	public void testeColocarCarroNaGaragem(){
+		// Testando se o carro e a garagem estão sendo cadas
+	}
+	@
 }
 ```
 ---
