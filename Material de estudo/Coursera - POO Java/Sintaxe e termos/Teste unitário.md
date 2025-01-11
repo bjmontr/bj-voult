@@ -123,4 +123,8 @@ class Teste {
 4. Manutenção de dados de teste
 	- Limpe os dados após cada teste:
 		- Isso evita que dados residuais prejudiquem outros testes. (@AfterEach)
-5. Assertivas signi
+5. Assertivas significativas
+	- Use assertivas específicas e claras:
+		- Use `assertEquals`, `assertTrue`, `assertThrows`, etc.
+			- **Exemplo ruim:** `assertTrue(resultado == esperado)`.
+			- **Exemplo bom:** `assertEquals(esperado, resultado)`.
