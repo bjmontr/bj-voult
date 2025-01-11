@@ -89,21 +89,21 @@ class Teste {
 }
 ```
 
-- Nomenclaturas:
-	- BeforeAll:
+- **Nomenclaturas**:
+	- **BeforeAll**:
 		Executado **uma única vez** antes de todos os testes da classe. Geralmente usado para configurações que precisam ser realizadas apenas uma vez, como abrir conexões com banco de dados ou inicializar recursos globais. Deve ser aplicado em métodos estáticos.
 		
-	- BeforeEach:
+	- **BeforeEach**:
 		Executado **antes de cada teste** na classe. Usado para configurar o estado inicial necessário para o teste, como instanciar objetos ou limpar variáveis.
 		
-	- Test:
+	- **Test**:
 		Marca um método como um **teste unitário**. É onde você implementa a lógica para verificar o comportamento esperado do código, usando asserções (como `Assertions.assertTrue()` ou `assertEquals()`).
 		
-	- AfterBefore:
+	- **AfterBefore**:
 		Executado **após cada teste** na classe. Usado para realizar ações de limpeza, como remover registros temporários ou resetar estados alterados durante o teste.
 		
-	- AfterAll:
-		
+	- **AfterAll**:
+		Executado **uma única vez** após todos os testes da classe. Geralmente usado para liberar recursos globais, como fechar conexões de banco de dados ou encerrar serviços mockados. Deve ser aplicado em métodos estáticos.
 ---
 
 ## ⚡ Melhores Práticas
