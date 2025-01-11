@@ -107,3 +107,6 @@ class Teste {
 ---
 
 ## ⚡ Melhores Práticas
+
+- Independência dos testes: Cada teste deve ser independente dos outros. Um teste nunca deve depender do sucesso ou falha de outro teste.
+	
