@@ -14,13 +14,45 @@ Dividir a responsabilidade do código em várias classes diferentes.
 
 ## 📝 Principais Características
 
-- **Otimização do código**: Com a divisão das responsabilidades o código ficará menos bagunçado e mais legível.
+- **Associação**:
+	- **Unilateral**: Uma classe conhece i pode acessar a outra, mas não o contrário.
+	- **Bilateral**: Ambas as classes se conhecem e podem acessar uma à outra;
+	
+- **Agregação**: Um tipo especial de associação, onde uma classe é compostas por outras, mas as partem podem existir independente da classe agregadora.
+
+- **Composição**: É uma forma mais forte de agregação, onde as partes não podem existir sem o todo.
+
+- **Herança**: Quando uma classe herda características e comportamentos de outra. A classe que herda é chamada de "subclasse", e a classe que é herdada é chamada de "superclasse".
+
+- **Dependência** Quando uma classe usa outra para realizar suas funções, geralmente temporariamente, como no caso de um método que recebe um parâmetro de outra classe.
+
+---
+
+## 🧩 Vantagens e Desvantagens
+
+- **Vantagens:**
+	- **Reutilização de código**: você pode reutilizar o código de outras classes, evitando duplicação e facilitando a manutenção.
+	  
+	- **Facilidade de manutenção**: Relacionamentos bem definidos permitem que modificações em uma classe tenham impacto mínimo nas outras.
+	  
+	- **Encapsulamento**: Relacionamentos ajudam a definir limites claros entre as responsabilidades das classes, promovendo a separação de preocupações e melhorando a modularidade.
+	  
+	- **Facilidade em adicionar novas funcionalidades**: Usando herança e composição, você pode adicionar novas funcionalidades sem modificar as classes existentes.
+	
+- **Desvantagens:**
+	- **Complexidade**: Relacionamentos entre classes podem aumentar a complexidade do código, tornando-o difícil de entender e manter, especialmente em sistemas grandes e mal projetados.
+	  
+	- **Acoplamento**: Se o relacionamento entre as classes for muito forte (como na composição), isso pode aumentar o acoplamento, tornando o sistema mais difícil de modificar e testar.
+	  
+	- **Herança excessiva**: O uso indevido da herança pode levar a hierarquias profundas e difíceis de entender, além de tornar a modificação de classes superclasses mais arriscada.
+	  
+	- **Desempenho**: O uso de certos tipos de relacionamentos, como a composição, pode causar um pequeno overhead de desempenho, dependendo de como os objetos são gerenciados.
 
 ---
 
 ## 💻 Exemplo de Implementação
 
-[Link do código]([bllakk/LibertyWalk-Java](https://github.com/bllakk/LibertyWalk-Java))
+[Link de projeto]([bllakk/LibertyWalk-Java](https://github.com/bllakk/LibertyWalk-Java))
 
 - Classe `Motor`: 
 	- Contém a definição da classe `Motor`, com um atributo `tipo` e um método para retornar esse tipo.
@@ -106,6 +138,16 @@ public class Main {
 ---
 
 ## ⚡ Melhores Práticas
+
+- **Favor composição à herança**: Em muitos casos, a composição (ao invés da herança) pode ser uma solução mais flexível, pois evita a rigidez e o alto acoplamento da herança.
+  
+- **Mantenha o baixo acoplamento**: Sempre que possível, evite criar dependências fortes entre classes.
+  
+- **Use interfaces e classes abstratas**: Para promover a flexibilidade, use interfaces e classes abstratas para definir contratos.
+  
+- **Princípio de responsabilidade única (SRP)**: Cada classe deve ter uma única responsabilidade, o que ajuda a manter a coesão da classe e melhora a legibilidade e testabilidade do código.
+  
+- **Evite dependências cíclicas**: Evite situações em que deus classes dependem uma da outra, o que pode criar uma estrutura complexa e difícil testar.
 
 ---
 

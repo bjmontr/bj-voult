@@ -38,30 +38,6 @@ date: 2025-01-06
 
 ---
 
-### 🧩 3. {{Tópico}}  
-
-
----
-
-### 🧩 4. {{Tópico}}  
-
-
----
-
-### 🧩 5. {{Tópico}}
-
-
----
-
 ### ✅ **Tarefas e Metas da Semana**
 
-- [ ] Tarefa 1
-- [ ] Tarefa 2
-- [ ] Tarefa 3
-- [ ] Tarefa 4
-
-### 💡 **Observações e Insights**
-
-- {{Observação}}
-- {{Observação}}
-
+- [x] Atividade ✅ 2025-01-09 [Link de projeto]([bllakk/LibertyWalk-Java](https://github.com/bllakk/LibertyWalk-Java))
