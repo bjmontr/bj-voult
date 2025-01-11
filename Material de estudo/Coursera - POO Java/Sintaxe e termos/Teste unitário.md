@@ -109,7 +109,11 @@ class Teste {
 ## ⚡ Melhores Práticas
 
 1. Organização e isolamento
-	- Independência dos testes: Cada teste deve ser independente dos outros. Um teste nunca deve depender do sucesso ou falha de outro teste.
+	- Independência dos testes: 
+		- Cada teste deve ser independente dos outros. Um teste nunca deve depender do sucesso ou falha de outro teste.
 		- Use ``@BeforeEach`` para garantir que os objetos e estados sejam criados novamente antes de cada teste.
 2. Uso correto das anotações
-	- @BeforeAll e @After a
+	- @BeforeAll e @AfterAll: 
+		- Use para configurar e liberar recursos que são caros para inicializar como conexões de banco de dados.
+	- @BeforeEach e @AfterEach:
+		- Use para configurar ou limpar recursos que devem ser reiniciados antes e após **cada teste individual**, como instanciar objetos ou remover registros criados.
