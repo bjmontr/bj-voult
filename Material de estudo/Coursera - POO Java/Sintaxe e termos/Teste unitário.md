@@ -64,13 +64,17 @@ public class Garagem {
 ```java
 class Teste {
 	@beforeAll
-	publick void abrirBanco(){
+	public void abrirBanco(){
 		// Abertura do banco de dados
 	}
 	
-	@before void criarObjetos(){
-		//
+	@before 
+	public void criarObjetos(){
+		// Instanciando objetos que irão ser usados no teste
 	}
+	
+	@test
+	public void testeColocar
 }
 ```
 ---
