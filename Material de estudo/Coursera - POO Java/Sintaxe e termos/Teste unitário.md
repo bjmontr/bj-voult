@@ -61,13 +61,16 @@ public class Garagem {
 ```
 
 3. Classe de teste
-```
+```java
 class Teste {
 	@beforeAll
 	publick void abrirBanco(){
 		// Abertura do banco de dados
 	}
-
+	
+	@before void criarObjetos(){
+		//
+	}
 }
 ```
 ---
