@@ -8,14 +8,15 @@ date: 2025-01-11
 
 ## 🔍 Definição
 
-Conjunto de classes que servem para testar uma parte do código ou a aplicação
+Conjunto de classes que servem para testar uma parte do código ou a aplicação inteira.
 
 ---
 
 ## 📝 Principais Características
 
-- **{{Caracteristica}}**:
-- **{{Caracteristica}}**:
+- **Tipos de testes**:
+	- **Unidade**: Testa uma única classe ou um único método.
+	- **Integraça**:
 
 ---
 
