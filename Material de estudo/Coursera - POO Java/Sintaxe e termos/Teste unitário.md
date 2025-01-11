@@ -117,3 +117,7 @@ class Teste {
 		- Use para configurar e liberar recursos que são caros para inicializar como conexões de banco de dados.
 	- @BeforeEach e @AfterEach:
 		- Use para configurar ou limpar recursos que devem ser reiniciados antes e após **cada teste individual**, como instanciar objetos ou remover registros criados.
+3. Simplicidade nos testes:
+	- Testar um único comportamento por método:
+		- Cada método anotado com @Test deve validar apenas uma funcionalidade específica. Isso facilita a identificação de problemas quando o teste falha.
+	- Nome claro para os testes: 
