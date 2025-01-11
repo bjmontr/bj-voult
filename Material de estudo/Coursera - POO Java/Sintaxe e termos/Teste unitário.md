@@ -16,7 +16,8 @@ Conjunto de classes que servem para testar uma parte do código ou a aplicação
 
 - **Tipos de testes**:
 	- **Unidade**: Testa uma única classe ou um único método.
-	- **Integraça**:
+	- **Integração**: Testa a colaboração de um grupo de classes.
+	- **Funcional**: Testa o software como um todo de acordo com os requisitos.
 
 ---
 
