@@ -21,7 +21,7 @@ Conjunto de classes que servem para testar uma parte do código ou a aplicação
 
 ---
 
-## 🧩 Vantagens e Desvantagens
+## 🧩 Vantagens
 
 - **Vantagens:**
 	- **Eficiência e velocidade**:
@@ -38,13 +38,13 @@ Conjunto de classes que servem para testar uma parte do código ou a aplicação
 		
 	- **Economia a longo prazo**:
 		Apesar do custo inicial, a automação reduz custos operacionais a longo prazo, especialmente em projetos grandes.
-		
-- **Desvantagens:**
-
 ---
 
 ## 💻 Exemplo de Implementação
 
+```
+
+```
 ---
 
 ## ⚡ Melhores Práticas
