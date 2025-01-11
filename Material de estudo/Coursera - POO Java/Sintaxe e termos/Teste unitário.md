@@ -46,17 +46,28 @@ Conjunto de classes que servem para testar uma parte do código ou a aplicação
 
 ==**NÃO TEREMOS MUITO CÓDIGO NAS CLASSES POIS O INTUITO É AS CLASSES DE TESTES!!**==
 
-1. Class Carro
+1. Classe Carro
 ```java
 public class Carro {
 	// Atributos e métodos da classe Carro
 }
 ```
 
-2. Class Garagem
+2. Classe Garagem
 ```java
 public class Garagem {
-	// Atributos e métodos
+	// Atributos e métodos da classe garagem
+}
+```
+
+3. Classe de teste
+```
+class Teste {
+	@beforeAll
+	publick void abrirBanco(){
+		// Abertura do banco de dados
+	}
+
 }
 ```
 ---
