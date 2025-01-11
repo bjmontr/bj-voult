@@ -120,4 +120,7 @@ class Teste {
 3. Simplicidade nos testes:
 	- Testar um único comportamento por método:
 		- Cada método anotado com @Test deve validar apenas uma funcionalidade específica. Isso facilita a identificação de problemas quando o teste falha.
-	- Nome claro para os testes: 
+4. Manutenção de dados de teste
+	- Limpe os dados após cada teste:
+		- Isso evita que dados residuais prejudiquem outros testes. (@AfterEach)
+5. Assertivas signi
