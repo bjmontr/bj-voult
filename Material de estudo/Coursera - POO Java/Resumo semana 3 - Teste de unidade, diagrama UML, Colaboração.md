@@ -8,6 +8,7 @@ date: 2025-01-09
 
 ## 📖 Tópicos Estudados  
 
+[[Teste unitário]]
 ### 🧩 1. Importância de testes automatizados
 
 - **Importância**:
