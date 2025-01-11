@@ -108,22 +108,25 @@ class Teste {
 
 ## ⚡ Melhores Práticas
 
-1. Organização e isolamento
-	- Independência dos testes: 
+1. **Organização e isolamento**
+	- **Independência dos testes**: 
 		- Cada teste deve ser independente dos outros. Um teste nunca deve depender do sucesso ou falha de outro teste.
 		- Use ``@BeforeEach`` para garantir que os objetos e estados sejam criados novamente antes de cada teste.
-2. Uso correto das anotações
-	- @BeforeAll e @AfterAll: 
+		 
+1. **Uso correto das anotações**
+	- ``@BeforeAll`` e ``@AfterAll``: 
 		- Use para configurar e liberar recursos que são caros para inicializar como conexões de banco de dados.
-	- @BeforeEach e @AfterEach:
+	- ``@BeforeEach`` e ``@AfterEach``:
 		- Use para configurar ou limpar recursos que devem ser reiniciados antes e após **cada teste individual**, como instanciar objetos ou remover registros criados.
-3. Simplicidade nos testes:
-	- Testar um único comportamento por método:
+		 
+3. **Simplicidade nos testes**:
+	- **Testar um único comportamento por método**:
 		- Cada método anotado com @Test deve validar apenas uma funcionalidade específica. Isso facilita a identificação de problemas quando o teste falha.
-4. Manutenção de dados de teste
+		 
+1. Manutenção de dados de teste
 	- Limpe os dados após cada teste:
 		- Isso evita que dados residuais prejudiquem outros testes. (@AfterEach)
-5. Assertivas significativas
+2. Assertivas significativas
 	- Use assertivas específicas e claras:
 		- Use `assertEquals`, `assertTrue`, `assertThrows`, etc.
 			- **Exemplo ruim:** `assertTrue(resultado == esperado)`.
