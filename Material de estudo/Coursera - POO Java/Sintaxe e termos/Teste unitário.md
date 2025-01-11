@@ -42,8 +42,11 @@ Conjunto de classes que servem para testar uma parte do código ou a aplicação
 
 ## 💻 Exemplo de Implementação
 
-- **Contexto**: Temos 2 classes, uma classe ``classe carro`` para criar o objeto carro, uma ``classe garagem`` para criar uma garagem, e consequentemente colocar nosso carro na garagem, e tambem temos um banco de dados
+- **Contexto**: Temos 2 classes, uma classe ``classe carro`` para criar o objeto carro, uma ``classe garagem`` para criar uma garagem, e consequentemente colocar nosso carro na garagem, e também temos um banco de dados imaginário (por enquanto).
 
+**NÃO TEREMOS MUITO CÓDIGO NAS CLASSES POIS O INTUITO **
+
+1. Class Carro
 ```java
 
 ```
