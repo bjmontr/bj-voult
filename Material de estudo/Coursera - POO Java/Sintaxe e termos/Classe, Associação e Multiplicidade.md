@@ -48,7 +48,15 @@ date: 2025-08-12
 Cliente  ---------  Pedido
 ```
 
-- Mu
+- Multiplicidade
+	- Definição:
+		Define o número de objetos de uma classe que podem estar associados a um objeto de uma classe.
+	- Notação:
+		- `1`: Exatamente um
+		- `0..1`: Zero ou um
+		- `*`: Muitos (0 ou mais)
+		- `1..*`: Um ou mais
+		- `0..*`:
 ---
 
 ## 🧩 Vantagens e Desvantagens
