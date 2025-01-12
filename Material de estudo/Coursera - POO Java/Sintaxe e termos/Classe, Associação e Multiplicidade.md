@@ -78,6 +78,10 @@ Pedido  1 -------- * Produto
 
 ## 💻 Exemplo de Implementação
 
+- Imagine um sistema de livraria:
+	1. Um **Autor** pode escrever vários **Livros**, mas um livro pertence a apenas um autor.
+	2. Um **Livro** pode estar presente em vário **Pedidos**, e um pedid
+
 ---
 
 ## ⚡ Melhores Práticas
