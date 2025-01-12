@@ -56,12 +56,7 @@ date: 2025-01-12
 - **Vantagens:**
 	- Clareza
 	- Comunicação
-	- Documentaç
+	- Documentação
+	- Planejamento
 
 ---
-
-## 💻 Exemplo de Implementação
-
----
-
-## ⚡ Melhores Práticas
