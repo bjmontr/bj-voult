@@ -5,7 +5,7 @@ tags:
   - poo
 date: 2025-08-12
 ---
-
+[[UML]]
 ## 📝 Principais Características
 
 - **{{Caracteristica}}**:
