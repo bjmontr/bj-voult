@@ -52,7 +52,8 @@ Imagine um sistema onde temos uma classe `ContaBancaria`:
 ```
 class ContaBancaria {
 	- saldo: double   // Privado: Não pode ser acessado diretamente fora da classe.
-
+	# taxaOperacao: double   // Protegido: Pode ser usado por subclasses.
+	+ ConsultarSaldo(): double   // Público: Pode ser chamado por qualquer classe.
 }
 ```
 ---
