@@ -35,11 +35,20 @@ date: 2025-08-12
 ```
 
 - **Associação**:
-	- Definição:
+	- **Definição**:
 		Representa um relacionamento entre duas ou mais classes.
 		
-	- Tipos de associa
+	- **Tipos de associação**:
+		- **Unilateral**: Apenas uma classe conhece a outra.
+		  
+		- **Bidirecional**: Ambas as classes têm conhecimento mútuo.
+		  
+	- **Exemplo**: Um cliente faz pedidos.
+```plaintext
+Cliente  ---------  Pedido
+```
 
+- Mu
 ---
 
 ## 🧩 Vantagens e Desvantagens
