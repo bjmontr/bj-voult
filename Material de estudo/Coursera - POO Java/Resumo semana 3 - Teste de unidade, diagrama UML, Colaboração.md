@@ -47,12 +47,18 @@ Diagramas permitem ter uma visão geral do software como um todo, e não apenas 
 | --- |
 |  Atributos   |
 |  Operações ou métodos   |
+
 - Visibilidade:
 	- - -> Privado
 	- '#' -> Protegido
 	- + -> Público
 
 - Exemplo:
+
+| Carro                     |
+| ------------------------- |
+| -nome                     |
+| '#'getNome<br>+trocarNome |
 
 ---
 
