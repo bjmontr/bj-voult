@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Templates . -file:README",
+  "search": "-path:Templates . -file:README . -file:Roadmap",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,

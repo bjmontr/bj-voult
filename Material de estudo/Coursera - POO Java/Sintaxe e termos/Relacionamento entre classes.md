@@ -150,9 +150,3 @@ public class Main {
 - **Evite dependências cíclicas**: Evite situações em que deus classes dependem uma da outra, o que pode criar uma estrutura complexa e difícil testar.
 
 ---
-
-## 📚 Referências 
-
-- **Principais temas usados**:
-	- [[Construtores]]
-	- [[Métodos vs Atributos]]
