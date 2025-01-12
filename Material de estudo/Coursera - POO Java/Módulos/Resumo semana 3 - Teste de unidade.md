@@ -41,6 +41,10 @@ date: 2025-01-09
 [[UML]]
 [[Visibilidade]]
 
+- Classe:
+	- Definição:
+		Representa uma entidade do sistema, como um objeto no mundo real ou conceito abstrado.
+	- eX
 
 ---
 ### ✅ **Tarefas e Metas da Semana**
