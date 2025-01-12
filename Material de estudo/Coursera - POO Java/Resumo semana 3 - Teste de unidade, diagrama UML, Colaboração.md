@@ -38,7 +38,7 @@ date: 2025-01-09
 
 ### 🧩 2. Diagramas 
 
-Diagramas seria uma forma mais simples e visual de representar um código.
+Diagramas permitem ter uma visão geral do software como um todo, e não apenas de uma pequena parte dele, além de que é possível explicar o software de uma forma mais simples.
 
 
 ---
