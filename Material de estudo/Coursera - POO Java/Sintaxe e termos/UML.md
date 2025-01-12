@@ -31,23 +31,32 @@ date: 2025-01-12
 		- Mostra como o sistema será implantado fisicamente em hardware.
 	
 - **Diagramas Comportamentais**:
-	- Diagrama de casos de usO:
-		- Foca na interação entre uruários e o sistema para alcançar objetivos.
-	- Diagrama de sequência:
+	- **Diagrama de casos de uso**:
+		- Foca na interação entre usuários e o sistema para alcançar objetivos.
+		  
+	- **Diagrama de sequência**:
 		- Representa a ordem e o fluxo das interações entre objetos ao longo do tempo.
-	- Diagrama de atividades:
+		  
+	- **Diagrama de atividades**:
 		- Modela fluxos de trabalho ou processos.
-	- Diagrama de estados: 
+		  
+	- **Diagrama de estados**: 
 		- Mostra os estados pelos quais um objeto passa durante sua vida.
-	- Diagrama de comunicação:
-		- Re
+		  
+	- **Diagrama de comunicação**:
+		- Representa as interações entre objetos e as mensagens trocadas.
+		  
+	- **Diagrama de tempo**: 
+		- Foca no tempo de execução de eventos no sistema.
 
 ---
 
 ## 🧩 Vantagens e Desvantagens
 
 - **Vantagens:**
-- **Desvantagens:**
+	- Clareza
+	- Comunicação
+	- Documentaç
 
 ---
 
