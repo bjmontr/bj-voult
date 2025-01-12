@@ -17,17 +17,24 @@ date: 2025-01-12
 - **Diagramas Estruturais**:
 	- **Diagramas de classes**: 
 		- Representa as classes do sistema, seus atributos, métodos e relacionamentos entre elas.
+		  
 	- **Diagrama de objetos**: 
 		- Mostra a instância específica das classes em um dado momento.
-	
+		  
 	- **Diagrama de pacotes**: 
 		- Exibe a organização dos pacotes e as dependências entre eles.
+		  
 	- **Diagrama de componentes**: 
 		- Modela os componentes físicos do sistema, como arquivos e bibliotecas.
+		  
 	- **Diagrama de implantação**: 
 		- Mostra como o sistema será implantado fisicamente em hardware.
 	
-- **{{Caracteristica}}**:
+- **Diagramas Comportamentais**:
+	- Diagrama de casos de usO:
+		- Foca na interação entre uruários e o sistema para alcançar objetivos.
+	- Diagrama de sequeência:
+	- 
 
 ---
 

@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "UML"
             }
+          },
+          {
+            "id": "411d3f10f56fc907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Material de estudo/Coursera - POO Java/Sintaxe e termos/Construtores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Construtores"
+            }
           }
         ]
       }
@@ -176,6 +190,8 @@
   },
   "active": "19c33b305648397a",
   "lastOpenFiles": [
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Construtores.md",
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
     "Material de estudo/Coursera - POO Java/Módulos/Resumo semana 1 - Classes e objetos.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/UML.md",
     "Material de estudo/Coursera - POO Java/Módulos/Resumo semana 3 - Teste de unidade.md",
@@ -189,8 +205,6 @@
     "README.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Sem título.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/O que é void.md",
-    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Métodos vs Atributos.md",
-    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Construtores.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos",
     "Material de estudo/Coursera - POO Java",
     "Material de estudo",
