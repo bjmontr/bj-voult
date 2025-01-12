@@ -15,23 +15,25 @@ Na representação de classes em UML, os símbolos `-`, `+` e `#` são usados pa
 ## 📝 Principais Características
 
 - `-` **Private**:
-	- Significado: 
+	- **Significado**: 
 		O elemento só pode ser acessado dentro da própria classe.
 		
-	- Uso comum: 
+	- **Uso comum**: 
 		Usado para proteger informações sensíveis ou garantir o encapsulamento.
 		
 - `+` **Public**:
-	- Significado:
+	- **Significado**:
 		O elemento pode ser acessado por qualquer classe do sistema.
 		
-	- Uso comum:
+	- **Uso comum**:
 		Atributos ou métodos que precisam estar disponíveis para outros objetos ou usuários do sistema.
 		
 - `#` **Protected**:
-	- Significado:
-		O elemento pode ser acessado pela própria classe e por suas subclas
-
+	- **Significado**:
+		O elemento pode ser acessado pela própria classe e por suas subclasses, mas não por outras classes externas.
+		
+	- Uso comum:
+		Garantir que atributos e métodos possam ser reutilizados por classes derivadas sem ficarem disponíveis para classes não relacionadas.
 ---
 
 ## 🧩 Vantagens e Desvantagens
