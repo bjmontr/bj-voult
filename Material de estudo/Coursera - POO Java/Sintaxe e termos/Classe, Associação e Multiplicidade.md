@@ -71,8 +71,10 @@ Pedido  1 -------- * Produto
 
 ## 🧩 Vantagens e Desvantagens
 
-- **Vantagens:**
-- **Desvantagens:**
+- **Vantagens:** 
+	- Facilita o planejamento do sistema.
+	- Melhora a comunicação entre os membros da equipe.
+	- Serve como documentação técnica.
 
 ---
 
@@ -80,8 +82,16 @@ Pedido  1 -------- * Produto
 
 - Imagine um sistema de livraria:
 	1. Um **Autor** pode escrever vários **Livros**, mas um livro pertence a apenas um autor.
-	2. Um **Livro** pode estar presente em vário **Pedidos**, e um pedid
+	2. Um **Livro** pode estar presente em vário **Pedidos**, e um pedido pode conter vários livros.
+	
+```plaintext
+Autor                  Livro                       Pedido
+--------              ----------                ----------
++ nome                + titulo                  + numero
+                      + preco
 
+(1)-------------------(1..*)                    (1)-------------------(*)  
+ Escreve                                     Contém
+
+```
 ---
-
-## ⚡ Melhores Práticas
