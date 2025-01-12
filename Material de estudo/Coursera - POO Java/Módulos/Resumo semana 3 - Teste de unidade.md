@@ -44,8 +44,19 @@ date: 2025-01-09
 - Classe:
 	- Definição:
 		Representa uma entidade do sistema, como um objeto no mundo real ou conceito abstrado.
-	- eX
-
+	- Exemplo:
+```plaintext
+---------------------
+|    Produto         |
+---------------------
+| - id: int          |
+| - nome: String     |
+| - preco: double    |
+---------------------
+| + calcularDesconto()|
+| + exibirDetalhes()  |
+---------------------
+```
 ---
 ### ✅ **Tarefas e Metas da Semana**
 
