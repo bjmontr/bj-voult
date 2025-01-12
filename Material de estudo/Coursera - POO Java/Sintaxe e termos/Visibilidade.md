@@ -32,19 +32,29 @@ Na representação de classes em UML, os símbolos `-`, `+` e `#` são usados pa
 	- **Significado**:
 		O elemento pode ser acessado pela própria classe e por suas subclasses, mas não por outras classes externas.
 		
-	- Uso comum:
+	- **Uso comum**:
 		Garantir que atributos e métodos possam ser reutilizados por classes derivadas sem ficarem disponíveis para classes não relacionadas.
 ---
 
 ## 🧩 Vantagens e Desvantagens
 
 - **Vantagens:**
-- **Desvantagens:**
+	- Encapsulamento
+	- Segurança
+	- Organização
 
 ---
 
 ## 💻 Exemplo de Implementação
 
+Imagine um sistema onde temos uma classe `ContaBancaria`:
+
+```
+class ContaBancaria {
+	- saldo: double   // Privado: Não pode ser acessado diretamente fora da classe.
+
+}
+```
 ---
 
 ## ⚡ Melhores Práticas
