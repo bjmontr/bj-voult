@@ -39,6 +39,7 @@ date: 2025-01-09
 ### 🧩 2. UML - Classe, Associação e Multiplicidade
 
 [[UML]]
+[[Visibilidade]]
 
 
 ---
