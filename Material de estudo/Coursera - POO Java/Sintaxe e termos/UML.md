@@ -33,8 +33,14 @@ date: 2025-01-12
 - **Diagramas Comportamentais**:
 	- Diagrama de casos de usO:
 		- Foca na interação entre uruários e o sistema para alcançar objetivos.
-	- Diagrama de sequeência:
-	- 
+	- Diagrama de sequência:
+		- Representa a ordem e o fluxo das interações entre objetos ao longo do tempo.
+	- Diagrama de atividades:
+		- Modela fluxos de trabalho ou processos.
+	- Diagrama de estados: 
+		- Mostra os estados pelos quais um objeto passa durante sua vida.
+	- Diagrama de comunicação:
+		- Re
 
 ---
 
