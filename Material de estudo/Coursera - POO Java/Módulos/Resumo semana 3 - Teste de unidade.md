@@ -35,7 +35,9 @@ date: 2025-01-09
 		3. `@test`: Adicionar, buscar e remover itens no banco.
 		4. `@afterEach`: Apagar os registros criados 
 ---
+### 🧩 2. Colaboração, Dependência e classes cliente e servidora
 
+---
 ### ✅ **Tarefas e Metas da Semana**
 
 - [ ] Tarefa 1
