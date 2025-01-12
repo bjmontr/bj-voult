@@ -48,19 +48,25 @@ date: 2025-08-12
 Cliente  ---------  Pedido
 ```
 
-- Multiplicidade
-	- Definição:
+- **Multiplicidade**
+	- **Definição**:
 		Define o número de objetos de uma classe que podem estar associados a um objeto de uma classe.
-	- Notação:
+		
+	- **Notação**:
 		- `1`: Exatamente um
 		- `0..1`: Zero ou um
 		- `*`: Muitos (0 ou mais)
 		- `1..*`: Um ou mais
 		- `0..*`: Zero ou muitos
-	- Exemplo: Um pedido contém vários produtos, mas cada produto pode estar associado a vários pedidos.
+		  
+	- **Exemplo**: Um pedido contém vários produtos, mas cada produto pode estar associado a vários pedidos.
 ```plaintext
 Pedido  1 -------- * Produto
 ```
+
+- `1` -> Indica que um pedido contém pelo menos um produto.
+- `*` -> Indica que um produto pode pertencer a vários pedidos.
+
 ---
 
 ## 🧩 Vantagens e Desvantagens
