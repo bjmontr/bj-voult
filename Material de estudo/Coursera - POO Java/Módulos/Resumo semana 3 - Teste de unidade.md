@@ -36,11 +36,9 @@ date: 2025-01-09
 		4. `@afterEach`: Apagar os registros criados 
 
 ---
-### 🧩 2. Classe, Associação e Multiplicidade
+### 🧩 2. UML - Classe, Associação e Multiplicidade
 
-- Diagrama de classes: Pt1
-	- Classe:
-		Representa uma entidade do sistema, como um objeto no mundo real.
+
 
 
 ---
