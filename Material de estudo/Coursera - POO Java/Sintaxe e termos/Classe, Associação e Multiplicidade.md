@@ -9,12 +9,16 @@ date: 2025-08-12
 ## 📝 Principais Características
 
 - **Classe**:
-	- Definição:
+	- **Definição**:
 		Representa uma entidade do sistema, como um objeto no mundo real ou um conceito abstrato.
-	- Estrutura:
-		- Nome: O nome da classe (obrigatório).
-		- Atributos: Propriedades ou características da classe.
-		- Métodos: Comportamentos ou operações que a classe pode realizar.
+		
+	- **Estrutura**:
+		- **Nome**: O nome da classe (obrigatório).
+		  
+		- **Atributos**: Propriedades ou características da classe.
+		  
+		- **Métodos**: Comportamentos ou operações que a classe pode realizar.
+		  
 	- Exemplo:
 ``` plaintext
 ---------------------
@@ -29,7 +33,12 @@ date: 2025-08-12
 ---------------------
 
 ```
-- **{{Caracteristica}}**:
+
+- **Associação**:
+	- Definição:
+		Representa um relacionamento entre duas ou mais classes.
+		
+	- Tipos de associa
 
 ---
 
