@@ -40,6 +40,7 @@ date: 2025-01-09
 
 [[UML]]
 [[Visibilidade]]
+[[Classe, Associação e Multiplicidade]]
 
 - Classe:
 	- Definição:
