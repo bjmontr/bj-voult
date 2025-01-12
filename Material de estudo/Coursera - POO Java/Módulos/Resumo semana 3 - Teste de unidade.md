@@ -44,7 +44,14 @@ date: 2025-01-09
 - Classe:
 	- Definição:
 		Representa uma entidade do sistema, como um objeto no mundo real ou conceito abstrato.
-- Associa
+		
+- Associação:
+	- Definição:
+		Representa um relacionamento entre duas ou mais classes.
+		
+- Multiplicidade
+	- Definição:
+		Define o número de objetos de uma classe que podem estar associados a um objeto de outra classe.
 ---
 ### ✅ **Tarefas e Metas da Semana**
 
