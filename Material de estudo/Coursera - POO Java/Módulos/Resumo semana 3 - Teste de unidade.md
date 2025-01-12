@@ -1,5 +1,5 @@
 ---
-title: Resumo semana 3 - Teste de unidade, diagrama UML, Colaboração
+title: Resumo semana 3 - Teste de unidade
 tags:
   - java
   - poo
@@ -36,31 +36,6 @@ date: 2025-01-09
 		4. `@afterEach`: Apagar os registros criados 
 ---
 
-### 🧩 2. Diagramas 
-
-Diagramas permitem ter uma visão geral do software como um todo, e não apenas de uma pequena parte dele, além de que é possível explicar o software de uma forma mais simples.
-
-- **Diagrama de classes**:
-	- Como uma classe é representada
-
-|  Nome   |
-| --- |
-|  Atributos   |
-|  Operações ou métodos   |
-
-- Visibilidade:
-	- - -> Privado
-	- '#' -> Protegido
-	- + -> Público
-
-- Exemplo:
-
-| Carro                     |
-| ------------------------- |
-| -nome                     |
-| '#'getNome<br>+trocarNome |
-
----
 ### ✅ **Tarefas e Metas da Semana**
 
 - [ ] Tarefa 1
