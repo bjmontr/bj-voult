@@ -61,22 +61,6 @@ Diagramas permitem ter uma visão geral do software como um todo, e não apenas 
 | '#'getNome<br>+trocarNome |
 
 ---
-
-### 🧩 3. {{Tópico}}  
-
-
----
-
-### 🧩 4. {{Tópico}}  
-
-
----
-
-### 🧩 5. {{Tópico}}
-
-
----
-
 ### ✅ **Tarefas e Metas da Semana**
 
 - [ ] Tarefa 1
