@@ -1,7 +1,9 @@
 ---
-title: "{{title}}"
-tags: 
-date:
+title: Classe, Associação e Multiplicidade
+tags:
+  - java
+  - poo
+date: 2025-08-12
 ---
 
 ## 🔍 Definição
