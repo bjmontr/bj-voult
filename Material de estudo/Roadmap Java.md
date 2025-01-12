@@ -14,7 +14,8 @@
 		- Exceções
 		- Sobrecarga
 		- Packages
-		- Visibilidade
+		- [[Visibilidade]]
+			-  Visibilidade
 		
 	- Referencias:
 		- [Curso Java para iniciantes](https://www.youtube.com/watch?v=nODe5lFcGpg)

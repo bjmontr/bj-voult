@@ -21,10 +21,14 @@
             "id": "08da52b93276dcc9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Material de estudo/Roadmap Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap Java"
             }
           }
         ],
@@ -183,6 +187,7 @@
   },
   "active": "08da52b93276dcc9",
   "lastOpenFiles": [
+    "Material de estudo/Roadmap Java.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Classe, Associação e Multiplicidade.md",
     "Templates/Nota de estudo.md",
     "Templates/Nota semanal.md",
@@ -194,7 +199,6 @@
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Visibilidade.md",
     "Material de estudo/Coursera - POO Java/Módulos/Resumo semana 1 - Classes e objetos.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Relacionamento entre classes.md",
-    "Material de estudo/Roadmap Java.md",
     "Material de estudo/Coursera - POO Java/Resumo - Coursera.md",
     "Material de estudo/Coursera - POO Java/Módulos",
     "Material de estudo/Coursera - POO Java/Módulos/Resumo semana 2 - Aprofundamento de classes e CRC.md",
