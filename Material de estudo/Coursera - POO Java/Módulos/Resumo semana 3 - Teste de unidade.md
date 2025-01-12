@@ -39,7 +39,9 @@ date: 2025-01-09
 ### 🧩 2. Classe, Associação e Multiplicidade
 
 - Diagrama de classes: Pt1
-	- 
+	- Classe:
+		Representa uma entidade do sistema, como um objeto no mundo real.
+
 
 ---
 ### ✅ **Tarefas e Metas da Semana**
