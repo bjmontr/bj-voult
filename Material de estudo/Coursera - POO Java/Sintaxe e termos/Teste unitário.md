@@ -113,7 +113,7 @@ class Teste {
 		- Cada teste deve ser independente dos outros. Um teste nunca deve depender do sucesso ou falha de outro teste.
 		- Use ``@BeforeEach`` para garantir que os objetos e estados sejam criados novamente antes de cada teste.
 		 
-1. **Uso correto das anotações**
+2. **Uso correto das anotações**
 	- ``@BeforeAll`` e ``@AfterAll``: 
 		- Use para configurar e liberar recursos que são caros para inicializar como conexões de banco de dados.
 	- ``@BeforeEach`` e ``@AfterEach``:
@@ -123,11 +123,12 @@ class Teste {
 	- **Testar um único comportamento por método**:
 		- Cada método anotado com @Test deve validar apenas uma funcionalidade específica. Isso facilita a identificação de problemas quando o teste falha.
 		 
-1. Manutenção de dados de teste
-	- Limpe os dados após cada teste:
+4. **Manutenção de dados de teste**
+	- **Limpe os dados após cada teste**:
 		- Isso evita que dados residuais prejudiquem outros testes. (@AfterEach)
-2. Assertivas significativas
-	- Use assertivas específicas e claras:
+		 
+5. **Assertivas significativas**
+	- **Use assertivas específicas e claras**:
 		- Use `assertEquals`, `assertTrue`, `assertThrows`, etc.
 			- **Exemplo ruim:** `assertTrue(resultado == esperado)`.
 			- **Exemplo bom:** `assertEquals(esperado, resultado)`.
