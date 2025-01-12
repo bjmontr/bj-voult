@@ -20,7 +20,12 @@ Na representação de classes em UML, os símbolos `-`, `+` e `#` são usados pa
 		
 	- Uso comum: 
 		Usado para proteger informações sensíveis ou garantir o encapsulamento.
-- **{{Caracteristica}}**:
+- `+` **Public**:
+	- Significado:
+		O elemento pode ser acessado por qualquer classe do sistema.
+		
+	- Uso comum:
+		Atributos ou métodos que precisam estar dispon
 - **{{Caracteristica}}**:
 
 ---
