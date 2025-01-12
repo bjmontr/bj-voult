@@ -34,8 +34,12 @@ date: 2025-01-09
 		2. `@beforeEach`: Adicionar dados padrão, como um usuário ou produto.
 		3. `@test`: Adicionar, buscar e remover itens no banco.
 		4. `@afterEach`: Apagar os registros criados 
+
 ---
-### 🧩 2. Colaboração, Dependência e classes cliente e servidora
+### 🧩 2. Classe, Associação e Multiplicidade
+
+- Diagrama de classes: Pt1
+	- 
 
 ---
 ### ✅ **Tarefas e Metas da Semana**
