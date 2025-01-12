@@ -46,7 +46,7 @@ Diagramas permitem ter uma visão geral do software como um todo, e não apenas 
 |  Nome   |
 | --- |
 |  Atributos   |
-|  Operações    |
+|  Operações ou métodos   |
 
 
 ---
