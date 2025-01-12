@@ -36,7 +36,7 @@ date: 2025-01-09
 		4. `@afterEach`: Apagar os registros criados 
 ---
 
-### 🧩 2. {{Tópico}}  
+### 🧩 2. Diagramas 
 
 
 ---
