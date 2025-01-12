@@ -43,20 +43,8 @@ date: 2025-01-09
 
 - Classe:
 	- Definição:
-		Representa uma entidade do sistema, como um objeto no mundo real ou conceito abstrado.
-	- Exemplo:
-```plaintext
----------------------
-|    Produto         |
----------------------
-| - id: int          |
-| - nome: String     |
-| - preco: double    |
----------------------
-| + calcularDesconto()|
-| + exibirDetalhes()  |
----------------------
-```
+		Representa uma entidade do sistema, como um objeto no mundo real ou conceito abstrato.
+- Associa
 ---
 ### ✅ **Tarefas e Metas da Semana**
 
