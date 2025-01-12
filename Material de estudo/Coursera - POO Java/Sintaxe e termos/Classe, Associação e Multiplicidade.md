@@ -56,7 +56,11 @@ Cliente  ---------  Pedido
 		- `0..1`: Zero ou um
 		- `*`: Muitos (0 ou mais)
 		- `1..*`: Um ou mais
-		- `0..*`:
+		- `0..*`: Zero ou muitos
+	- Exemplo: Um pedido contém vários produtos, mas cada produto pode estar associado a vários pedidos.
+```plaintext
+Pedido  1 -------- * Produto
+```
 ---
 
 ## 🧩 Vantagens e Desvantagens
