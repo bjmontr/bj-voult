@@ -32,7 +32,8 @@ date: 2025-01-09
 		1. `@beforeAll`: Abrir uma conexão com o banco.
 		2. `@before`: Adicionar dados padrão, como um usuário ou produto.
 		3. `@test`: Adicionar, buscar e remover itens no banco.
-		4. `@after`: Apagar os registros criados 
+		4. `@after`: Apagar os registros criados no teste atual.
+		5. `@afterAll`: Fechar a conexão com o banco
 ---
 
 ### 🧩 2. {{Tópico}}  
