@@ -73,7 +73,7 @@ class Carro {
 	
 	public void ligarCarro(){
 		motor.ligar();
-		System.out.println("Motor ligado.");
+		System.out.println("Carro ligado.");
 	}
 }
 ```
