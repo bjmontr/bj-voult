@@ -61,8 +61,10 @@ date: 2025-01-09
 - Colaboração:
 	- Definição:
 		É interação entre diferentes classes para alcançar um objetivo comum. Isso envolve o uso de métodos e atributos de uma classe por outras, onde uma classe pode delegar parte do seu comportamento ou lógica para outra, a fim de realizar uma tarefa específica.
+		
 - Dependência:
-	- Definição
+	- Definição:
+		É uma relação em que uma classe utiliza outra para realizar suas funções ou operações. Quando uma classe depende de outra, isso significa que ela precisa de um ou mais objetos da outra classe para executar seu comportamento ou lógica.
 ---
 ### ✅ **Tarefas e Metas da Semana**
 
