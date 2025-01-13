@@ -14,7 +14,10 @@ date: 2025-01-13
 		- Composição:
 			Uma forma mais forte de associação onde uma classe é parte integrante de outra. Se a classe "pai", for destruída, seus objetos "filhos" também são destruídos.
 		- Herança:
-			Uma classe pode herdar comportamentos de outra. Isso permite reutilização de código de
+			Uma classe pode herdar comportamentos de outra. Isso permite reutilização de código e colaboração entre as classes de uma hierarquia.
+		- Agregação: 
+			Semelhante à composição, mas com uma relação mais fraca. A classe "mãe" depende diretamente da existência da classe "filha", ou seja, objetos podem existir independetimente.
+		- Use de interfaces: Classes podem co
 - **{{Caracteristica}}**:
 
 ---
