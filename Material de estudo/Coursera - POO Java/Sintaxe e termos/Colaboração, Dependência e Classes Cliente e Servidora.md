@@ -23,7 +23,35 @@ date: 2025-01-13
 			
 		- **Use de interfaces**: 
 			Classes podem colaborar por meio de interfaces, onde uma classe complementa uma interface e outras dependem dessa interface para interagir com a classe. Isso permite abstração e flexibilidade na colaboração.
-- Ex
+- Exemplo:
+```java
+class Motor {
+    public void ligar() {
+        System.out.println("Motor ligado.");
+    }
+}
+
+class Carro {
+    private Motor motor;
+    
+    public Carro() {
+        this.motor = new Motor();
+    }
+    
+    public void ligarCarro() {
+        motor.ligar();  // Colaboração entre Carro e Motor
+        System.out.println("Carro ligado.");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Carro carro = new Carro();
+        carro.ligarCarro();  // O Carro colabora com o Motor
+    }
+}
+```
+A classe Carro colabora com a classe Motor ao chamar o método ligar() do Motor dentro do método ligarCarro() da classe Carro. Isso é um exemplo de associa
 
 - **{{Caracteristica}}**:
 
