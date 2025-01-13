@@ -57,6 +57,9 @@ A classe Carro colabora com a classe ``Motor`` ao chamar o método ``ligar()`` d
 	- Tipos de dependência:
 		- Dependência de método:
 			Uma classe pode depender de outra ao utilizar os métodos desta classe. Ou seja, a classe "A" pode chamar métodos da classe "B" em seus próprios métodos.
+			- Exemplo:
+		- Dependência de atributos:
+			
 ```java
 class Motor{
 	public void ligar(){
