@@ -60,8 +60,9 @@ date: 2025-01-09
 
 - Colaboração:
 	- Definição:
-		
-
+		É interação entre diferentes classes para alcançar um objetivo comum. Isso envolve o uso de métodos e atributos de uma classe por outras, onde uma classe pode delegar parte do seu comportamento ou lógica para outra, a fim de realizar uma tarefa específica.
+- Dependência:
+	- Definição
 ---
 ### ✅ **Tarefas e Metas da Semana**
 
