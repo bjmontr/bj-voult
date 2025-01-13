@@ -60,14 +60,21 @@ A classe Carro colabora com a classe ``Motor`` ao chamar o método ``ligar()`` d
 ```java
 class Motor{
 	public void ligar(){
-		System.out.println("Motor ligado.")
+		System.out.println("Motor ligado.");
 	}
 }
 
 class Carro {
 	private Motor motor;
 	
-	public 
+	public Carro(Motor motor){
+		this.motor = motor;
+	}
+	
+	public void ligarCarro(){
+		motor.ligar();
+		System.out.println("Motor ligado.");
+	}
 }
 ```
 
