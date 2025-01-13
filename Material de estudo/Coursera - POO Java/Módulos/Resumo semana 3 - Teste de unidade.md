@@ -65,6 +65,9 @@ date: 2025-01-09
 - Dependência:
 	- Definição:
 		É uma relação em que uma classe utiliza outra para realizar suas funções ou operações. Quando uma classe depende de outra, isso significa que ela precisa de um ou mais objetos da outra classe para executar seu comportamento ou lógica.
+- Classe cliente e classe servidora:
+	- Definição:
+		
 ---
 ### ✅ **Tarefas e Metas da Semana**
 
