@@ -51,7 +51,7 @@ public class Main {
     }
 }
 ```
-A classe Carro colabora com a classe Motor ao chamar o método ligar() do Motor dentro do método ligarCarro() da classe Carro. Isso é um exemplo de associa
+A classe Carro colabora com a classe ``Motor`` ao chamar o método ``ligar()`` do Motor dentro do método ``ligarCarro()`` da classe ``Carro``. Isso é um exemplo de associação e delegação de responsabilidades entre as classes,
 
 - **{{Caracteristica}}**:
 
