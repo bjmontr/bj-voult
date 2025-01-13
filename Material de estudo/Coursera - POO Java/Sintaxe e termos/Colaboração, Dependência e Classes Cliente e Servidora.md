@@ -78,9 +78,13 @@ class Carro {
 	}
 }
 ```
+			
 		- Dependência de atributos:
 			Uma classe pode ter um atributo que é um objeto de outra classe. Isso caracteriza uma dependência onde a classe "A" contém uma referência (ou instância) de um objeto da classe "B".
 			- Exemplo:
+			  
+		- Dependência de construção:
+			Uma classe pode depender de outra ao criar objetos dessa outra classe em seu próprio processo de construção (E)
 ---
 
 ## 🧩 Vantagens e Desvantagens
