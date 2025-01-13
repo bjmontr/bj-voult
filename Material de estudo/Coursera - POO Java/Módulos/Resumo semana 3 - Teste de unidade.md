@@ -33,8 +33,6 @@ date: 2025-01-09
 		1. `@beforeAll`: Abrir uma conexão com o banco.
 		2. `@beforeEach`: Adicionar dados padrão, como um usuário ou produto.
 		3. `@test`: Adicionar, buscar e remover itens no banco. 
-
-=======
 		4. `@afterEach`: Apagar os registros criados 
 >>>>>>> origin/main:Material de estudo/Coursera - POO Java/Módulos/Resumo semana 3 - Teste de unidade.md
 
