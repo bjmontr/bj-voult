@@ -10,8 +10,8 @@ date: 2025-01-13
 
 - **Colaboração**:
 	- Tipos de colaboração:
-		- Associação:
-			
+		- Associação: Uma classe pode ter uma referência a outra. Isso indica que as classes estão colaborando, mas de maneira mais flexível, sem forte dependência.
+		- Com
 - **{{Caracteristica}}**:
 
 ---
