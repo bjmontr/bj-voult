@@ -1,5 +1,5 @@
 ---
-title: Resumo semana 3 - Teste de unidade, diagrama UML, Colaboração
+title: Resumo semana 3 - Teste de unidade
 tags:
   - java
   - poo
@@ -8,6 +8,7 @@ date: 2025-01-09
 
 ## 📖 Tópicos Estudados  
 
+[[Teste unitário]]
 ### 🧩 1. Importância de testes automatizados
 
 - **Importância**:
@@ -30,32 +31,32 @@ date: 2025-01-09
 		Vamos realizar um teste de um CRUD com um banco.
 		
 		1. `@beforeAll`: Abrir uma conexão com o banco.
-		2. `@before`: Adicionar dados padrão, como um usuário ou produto.
-		3. `@test`: Adicionar, buscar e remover itens no banco.
-		4. `@after`: Apagar os registros criados no teste atual.
-		5. `@afterAll`: Fechar a conexão com o banco
----
+		2. `@beforeEach`: Adicionar dados padrão, como um usuário ou produto.
+		3. `@test`: Adicionar, buscar e remover itens no banco. 
 
-### 🧩 2. {{Tópico}}  
-
+=======
+		4. `@afterEach`: Apagar os registros criados 
+>>>>>>> origin/main:Material de estudo/Coursera - POO Java/Módulos/Resumo semana 3 - Teste de unidade.md
 
 ---
+### 🧩 2. UML - Classe, Associação e Multiplicidade
 
-### 🧩 3. {{Tópico}}  
+[[UML]]
+[[Visibilidade]]
+[[Classe, Associação e Multiplicidade]]
 
-
+- Classe:
+	- Definição:
+		Representa uma entidade do sistema, como um objeto no mundo real ou conceito abstrato.
+		
+- Associação:
+	- Definição:
+		Representa um relacionamento entre duas ou mais classes.
+		
+- Multiplicidade
+	- Definição:
+		Define o número de objetos de uma classe que podem estar associados a um objeto de outra classe.
 ---
-
-### 🧩 4. {{Tópico}}  
-
-
----
-
-### 🧩 5. {{Tópico}}
-
-
----
-
 ### ✅ **Tarefas e Metas da Semana**
 
 - [ ] Tarefa 1
