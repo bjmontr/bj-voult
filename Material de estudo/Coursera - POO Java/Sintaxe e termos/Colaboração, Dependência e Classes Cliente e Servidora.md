@@ -9,7 +9,9 @@ date: 2025-01-13
 ## 📝 Principais Características
 
 - **Colaboração**:
-	- 
+	- Tipos de colaboração:
+		- Associação:
+			
 - **{{Caracteristica}}**:
 
 ---
