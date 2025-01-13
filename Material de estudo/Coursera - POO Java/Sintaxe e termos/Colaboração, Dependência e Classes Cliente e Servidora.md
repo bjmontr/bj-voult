@@ -83,29 +83,36 @@ class Carro {
 			Uma classe pode ter um atributo que é um objeto de outra classe. Isso caracteriza uma dependência onde a classe "A" contém uma referência (ou instância) de um objeto da classe "B".
 			- Exemplo:
 			```java
-class Motor{
-	public void ligar(){
-		System.out.println("Motor ligado.");
-	}
+class Motor {
+    public void ligar() {
+        System.out.println("Motor ligado.");
+    }
 }
 
 class Carro {
-	private Motor motor;
-	
-	public Carro(Motor motor){
-		this.motor = motor;
-	}
-	
-	public void ligarCarro(){
-		motor.ligar();
-		System.out.println("Carro ligado.");
-	}
+    private Motor motor;  // Atributo de tipo Motor, criando uma dependência
+    
+    public Carro() {
+        this.motor = new Motor();  // Instancia um objeto Motor, caracterizando a dependência
+    }
+
+    public void ligarCarro() {
+        motor.ligar();  // A classe Carro depende do Motor para realizar sua tarefa
+        System.out.println("Carro ligado.");
+    }
 }
+
+public class Main {
+    public static void main(String[] args) {
+        Carro carro = new Carro();  // Instancia Carro, que depende de Motor
+        carro.ligarCarro();
+    }
+}
+
 ```
-		
-	- Dependência de construção:
+			
+		- Dependência de construção:
 			Uma classe pode depender de outra ao criar objetos dessa outra classe em seu próprio processo de construção (Ex: construtor de classe.)
-			- Exemplo:
 ---
 
 ## 🧩 Vantagens e Desvantagens
