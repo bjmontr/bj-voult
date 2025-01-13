@@ -43,22 +43,24 @@ date: 2025-01-09
 [[Visibilidade]]
 [[Classe, Associação e Multiplicidade]]
 
-- Classe:
-	- Definição:
+- **Classe**:
+	- **Definição**:
 		Representa uma entidade do sistema, como um objeto no mundo real ou conceito abstrato.
 		
-- Associação:
-	- Definição:
+- **Associação**:
+	- **Definição**:
 		Representa um relacionamento entre duas ou mais classes.
 		
-- Multiplicidade
-	- Definição:
+- **Multiplicidade**
+	- b:
 		Define o número de objetos de uma classe que podem estar associados a um objeto de outra classe.
 
 ---
 ### 🧩 3. UML - # Colaboração, Dependência e Classes Cliente e Servidora
 
-
+- Colaboração:
+	- Definição:
+		
 
 ---
 ### ✅ **Tarefas e Metas da Semana**
