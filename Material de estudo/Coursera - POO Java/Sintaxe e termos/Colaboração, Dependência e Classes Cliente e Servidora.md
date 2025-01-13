@@ -58,9 +58,7 @@ A classe Carro colabora com a classe ``Motor`` ao chamar o método ``ligar()`` d
 		- Dependência de método:
 			Uma classe pode depender de outra ao utilizar os métodos desta classe. Ou seja, a classe "A" pode chamar métodos da classe "B" em seus próprios métodos.
 			- Exemplo:
-		- Dependência de atributos:
-			
-```java
+			```java
 class Motor{
 	public void ligar(){
 		System.out.println("Motor ligado.");
@@ -80,7 +78,9 @@ class Carro {
 	}
 }
 ```
-
+		- Dependência de atributos:
+			Uma classe pode ter um atributo que é um objeto de outra classe. Isso caracteriza uma dependência onde a classe "A" contém uma referência (ou instância) de um objeto da classe "B".
+			- Exemplo:
 ---
 
 ## 🧩 Vantagens e Desvantagens
