@@ -8,7 +8,8 @@ date: 2025-01-13
 
 ## 📝 Principais Características
 
-- **{{Caracteristica}}**:
+- **Colaboração**:
+	- 
 - **{{Caracteristica}}**:
 
 ---

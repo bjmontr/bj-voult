@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0885f60f80ddd314",
+            "id": "4364dcb92bd10433",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Colaboração, Dependência e Classes Cliente e Servidora"
             }
-          },
-          {
-            "id": "951e29addad9ed31",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "4c596be5119af457",
@@ -186,16 +174,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "951e29addad9ed31",
+  "active": "4364dcb92bd10433",
   "lastOpenFiles": [
     "Material de estudo/Coursera - POO Java/Módulos/Resumo semana 3 - Teste de unidade.md",
+    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Classe, Associação e Multiplicidade.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Colaboração, Dependência e Classes Cliente e Servidora.md",
     "conflict-files-obsidian-git.md",
     "Material de estudo/Coursera - POO Java/Resumo semana 3 - Teste de unidade, diagrama UML, Colaboração.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Visibilidade.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/UML.md",
     "Material de estudo/Coursera - POO Java/Sintaxe e termos/Teste unitário.md",
-    "Material de estudo/Coursera - POO Java/Sintaxe e termos/Classe, Associação e Multiplicidade.md",
     "Material de estudo/Coursera - POO Java/Resumo - Coursera.md",
     "Material de estudo/Coursera - POO Java/Módulos/Resumo semana 2 - Aprofundamento de classes e CRC.md",
     "Material de estudo/Coursera - POO Java/Módulos/Resumo semana 1 - Classes e objetos.md",
