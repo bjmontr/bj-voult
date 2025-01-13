@@ -54,6 +54,12 @@ date: 2025-01-09
 - Multiplicidade
 	- Definição:
 		Define o número de objetos de uma classe que podem estar associados a um objeto de outra classe.
+
+---
+### 🧩 2. UML - Classe, Associação e Multiplicidade
+
+
+
 ---
 ### ✅ **Tarefas e Metas da Semana**
 
