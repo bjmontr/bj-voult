@@ -139,15 +139,57 @@ public class Main {
 - Relação entre cliente e servidor
 	- A classe cliente utiliza os métodos e/ou atributos públicos da classe servidora par realizar suas operações. Essa interação pode ser representada por uma dependência ou associação entre as duas classes.
 ---
-
-## 🧩 Vantagens e Desvantagens
-
-- **Vantagens:**
-- **Desvantagens:**
-
----
-
 ## 💻 Exemplo de Implementação
+
+- Classe servirdora (Motor)
+```java
+class Motor {
+    private boolean ligado;
+
+    public void ligar() {
+        ligado = true;
+        System.out.println("Motor ligado.");
+    }
+
+    public void desligar() {
+        ligado = false;
+        System.out.println("Motor desligado.");
+    }
+
+    public boolean isLigado() {
+        return ligado;
+    }
+}
+```
+
+- Classe cliente (Carro)
+```java
+class Carro {
+    private Motor motor; // Dependência: o Carro utiliza o Motor
+
+    public Carro() {
+        this.motor = new Motor(); // O Motor é fornecido para o Carro
+    }
+
+    public void ligarCarro() {
+        if (!motor.isLigado()) {
+            motor.ligar(); // Classe cliente usando a classe servidora
+            System.out.println("Carro ligado com sucesso.");
+        } else {
+            System.out.println("O carro já está ligado.");
+        }
+    }
+
+    public void desligarCarro() {
+        if (motor.isLigado()) {
+            motor.desligar(); // Classe cliente usando a classe servidora
+            System.out.println("Carro desligado com sucesso.");
+        } else {
+            System.out.println("O carro já está desligado.");
+        }
+    }
+}
+```
 
 ---
 
