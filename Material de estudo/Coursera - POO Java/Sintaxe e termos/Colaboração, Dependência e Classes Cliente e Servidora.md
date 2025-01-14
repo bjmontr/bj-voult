@@ -116,12 +116,13 @@ public class Main {
 			
 - Classe cliente:
 	- Definição:
-		- É uma classe que consome os serviços ou métodos de outra classe. Ela depende de outra classe (Servidora) para realizar alguma operação ou obter um dado. A classe cliente não define os serviços que utiliza, apenas invoca.
+			É uma classe que consome os serviços ou métodos de outra classe. Ela depende de outra classe (Servidora) para realizar alguma operação ou obter um dado. A classe cliente não define os serviços que utiliza, apenas invoca.
 	- Exemplo: 
-		- Um objeto de uma classe "Carro" pode ser considerado cliente de uma classe "Motor" se utilizar os métodos de "Motor" para ligar ou desligar o carro.
+			Um objeto de uma classe "Carro" pode ser considerado cliente de uma classe "Motor" se utilizar os métodos de "Motor" para ligar ou desligar o carro.
 - Classe servidora:
 	- Definição:
-		- 
+			é uma classe que fornece serviços ou funcionalidades que outras classes podem usar. Ela contém a lógica ou os dados que que uma cliente acessa e utiliza. Em geral, a classe servidora não preicsa conhecer a classe cliente, sendo projetada para oferecer uma interface genérica para ser utilizada por várias classes clientes.
+	- 
 
 ---
 
