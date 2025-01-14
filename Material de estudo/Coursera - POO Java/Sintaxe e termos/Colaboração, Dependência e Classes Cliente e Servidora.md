@@ -114,7 +114,8 @@ public class Main {
 		- **Dependência de construção**:
 			Uma classe pode depender de outra ao criar objetos dessa outra classe em seu próprio processo de construção (Ex: construtor de classe.)
 			
----
+- Classe cliente:
+	- É uma classe que consome os serviços ou métodos de outra classe. Ela depende de outra classe (Servidora) para realizar alguma operação ou obter um dado. A classe cliente não define os serviços que ultiliza
 
 ---
 
