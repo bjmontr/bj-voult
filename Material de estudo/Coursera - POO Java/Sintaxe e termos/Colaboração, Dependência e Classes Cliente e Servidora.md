@@ -54,8 +54,8 @@ public class Main {
 A classe Carro colabora com a classe ``Motor`` ao chamar o método ``ligar()`` do Motor dentro do método ``ligarCarro()`` da classe ``Carro``. Isso é um exemplo de associação e delegação de responsabilidades entre as classes,
 
 - **Dependência**:
-	- Tipos de dependência:
-		- Dependência de método:
+	- **Tipos de dependência**:
+		- **Dependência de método**:
 			Uma classe pode depender de outra ao utilizar os métodos desta classe. Ou seja, a classe "A" pode chamar métodos da classe "B" em seus próprios métodos.
 			- Exemplo:
 			```java
@@ -79,7 +79,7 @@ class Carro {
 }
 ```
 			
-		- Dependência de atributos:
+		- **Dependência de atributos**:
 			Uma classe pode ter um atributo que é um objeto de outra classe. Isso caracteriza uma dependência onde a classe "A" contém uma referência (ou instância) de um objeto da classe "B".
 			- Exemplo:
 			```java
@@ -111,11 +111,11 @@ public class Main {
 
 ```
 			
-		- Dependência de construção:
+		- **Dependência de construção**:
 			Uma classe pode depender de outra ao criar objetos dessa outra classe em seu próprio processo de construção (Ex: construtor de classe.)
 			
-			
-			
+---
+
 ---
 
 ## 🧩 Vantagens e Desvantagens
