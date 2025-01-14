@@ -53,7 +53,7 @@ public class Main {
 ```
 A classe Carro colabora com a classe ``Motor`` ao chamar o método ``ligar()`` do Motor dentro do método ``ligarCarro()`` da classe ``Carro``. Isso é um exemplo de associação e delegação de responsabilidades entre as classes,
 
-- **{{Dependência}}**:
+- **Dependência**:
 	- Tipos de dependência:
 		- Dependência de método:
 			Uma classe pode depender de outra ao utilizar os métodos desta classe. Ou seja, a classe "A" pode chamar métodos da classe "B" em seus próprios métodos.
@@ -113,6 +113,9 @@ public class Main {
 			
 		- Dependência de construção:
 			Uma classe pode depender de outra ao criar objetos dessa outra classe em seu próprio processo de construção (Ex: construtor de classe.)
+			
+			
+			
 ---
 
 ## 🧩 Vantagens e Desvantagens
