@@ -1,6 +1,7 @@
 {
   "cssTheme": "AnuPpuccin",
   "accentColor": "#1c2fa5",
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter"
+  "interfaceFontFamily": "Charter",
+  "textFontFamily": "Charter",
+  "monospaceFontFamily": "Charter"
 }
