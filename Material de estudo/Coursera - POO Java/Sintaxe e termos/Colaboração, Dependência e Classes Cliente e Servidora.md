@@ -141,7 +141,7 @@ public class Main {
 ---
 ## 💻 Exemplo de Implementação
 
-- Classe servirdora (Motor)
+- Classe servidora (Motor)
 ```java
 class Motor {
     private boolean ligado;
@@ -191,6 +191,14 @@ class Carro {
 }
 ```
 
+- Classe principal
+```java
+public class Main {
+    public static void main(String[] args) {
+        Carro carro = new Carro(); // Classe cliente
+        carro.ligarCarro();       // Carro (cliente) utiliza Motor (servidor)
+        carro.desligarCarro();
+    }
+}
+```
 ---
-
-## ⚡ Melhores Práticas
