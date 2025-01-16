@@ -16,3 +16,8 @@
 - Importância de testes automatizados
 
 # Módulo 4
+
+[[Resumo semana 4 - Herança, acessando objetos, aprofundando na herança]]
+
+- Herança
+- Acessando objetos
