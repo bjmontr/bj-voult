@@ -38,7 +38,7 @@ ou seja todos os atributos da classe ``Empregado`` irão se estender até a clas
 - O que não é permitido
 	- Remover métodos
 	- Remover atributos
-	- Estender outra classe
+	- Estender uma segunda classe
 
 ---
 
