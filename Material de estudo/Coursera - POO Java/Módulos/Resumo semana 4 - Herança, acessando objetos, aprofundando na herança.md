@@ -31,6 +31,15 @@ public class Gerente
 
 ou seja todos os atributos da classe ``Empregado`` irão se estender até a classe `Gerente` e ser usado de uma forma independente.
 
+- O que é permitido
+	- Adicionar métodos
+	- Adicionar atributos
+	- Modificar métodos
+- O que não é permitido
+	- Remover métodos
+	- Remover atributos
+	- Estender outra classe
+
 ---
 
 ### 🧩 2. {{Tópico}}  
