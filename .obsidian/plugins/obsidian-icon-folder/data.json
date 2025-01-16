@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiBookTemplate",
+      "LiClipboardCheck",
+      "LiNotebook",
+      "LiLibrary"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +32,9 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Biblioteca": "LiLibrary",
+  "Material de estudo": "LiNotebook",
+  "Projetos": "LiClipboardCheck",
+  "Templates": "LiBookTemplate"
 }
