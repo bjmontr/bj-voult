@@ -26,7 +26,16 @@ public class Gerent extends Empregado{
 	double bonus;
 }
 ```
-Ou seja, todos os atributos da classe 
+Ou seja, todos os atributos da classe ``Empregado`` são herdados pela classe ``Gerente`` e porem ser utilizados de forma independente.
+
+- ✅ **O que é permitido**:
+	- Adicionar métodos.
+	- Adicionar atributos.
+	- Modificar métodos.
+- ❌ **O que não é permitido**:
+	- Remover métodos.
+	- Remover atributos.
+	- Estender uma segunda classe (hera)
 
 ---
 
