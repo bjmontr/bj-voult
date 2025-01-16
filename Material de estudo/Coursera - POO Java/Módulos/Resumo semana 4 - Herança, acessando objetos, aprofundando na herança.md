@@ -10,7 +10,23 @@ date: 2025-01-15
 
 ### 🧩 1. Herança
  
-A herança é o mecanismo que permite a reutilização de atributos e métodos de uma classe em outra, evitando a duplicação de 
+A herança é o mecanismo que permite a reutilização de atributos e métodos de uma classe em outra, evitando a duplicação de código.
+
+**Superclasse** -> **Subclasse**
+
+- Como funciona:
+```java
+public class Empregado {
+	String nome;
+	int idade;
+	double salario;
+}
+
+public class Gerent extends Empregado{
+	double bonus;
+}
+```
+Ou seja, todos os atributos da classe 
 
 ---
 
