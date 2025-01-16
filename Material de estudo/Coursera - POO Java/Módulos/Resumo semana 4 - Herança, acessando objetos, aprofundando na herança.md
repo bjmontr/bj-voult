@@ -40,6 +40,8 @@ ou seja todos os atributos da classe ``Empregado`` irão se estender até a clas
 	- Remover atributos
 	- Estender uma segunda classe
 
+
+
 ---
 
 ### 🧩 2. {{Tópico}}  
