@@ -10,7 +10,7 @@ date: 2025-01-15
 
 ### 🧩 1. Herança
  
-A herança é estender 
+A herança é estender os atributos e métodos para uma outra classe para nao
 
 ---
 
