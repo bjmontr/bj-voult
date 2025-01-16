@@ -23,8 +23,14 @@ public class Empregado{
 	double salario;
 }
 
-public class
+public class Gerente
+		extends Empregado{
+	double bonus;
+}
 ```
+
+ou seja todos os atributos da classe ``Empregado`` irão se estender até a classe `Gerente` e ser usado de uma forma independente.
+
 ---
 
 ### 🧩 2. {{Tópico}}  
