@@ -35,7 +35,7 @@ Ou seja, todos os atributos da classe ``Empregado`` são herdados pela classe ``
 - ❌ **O que não é permitido**:
 	- Remover métodos.
 	- Remover atributos.
-	- Estender uma segunda classe (hera)
+	- Estender uma segunda classe (herança múltipla direta não é suportada pelo Java).
 
 ---
 
