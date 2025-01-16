@@ -21,10 +21,14 @@
             "id": "340d9c97e63a85b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Material de estudo/Coursera - POO Java/Módulos/Resumo semana 4 - Herança, acessando objetos, aprofundando na herança.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resumo semana 4 - Herança, acessando objetos, aprofundando na herança"
             }
           }
         ],
@@ -84,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "4c596be5119af457",
@@ -167,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
