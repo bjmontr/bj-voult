@@ -10,8 +10,21 @@ date: 2025-01-15
 
 ### 🧩 1. Herança
  
-A herança é estender os atributos e métodos para uma outra classe para nao
+A herança é estender os atributos e métodos para uma outra classe para não precisar duplicar linhas de código
 
+Superclasse -> Subclasse
+
+Como fazemos:
+
+```java
+public class Empregado{
+	String nome;
+	int iddade;
+	double salario;
+}
+
+public class
+```
 ---
 
 ### 🧩 2. {{Tópico}}  
